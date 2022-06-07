@@ -1,0 +1,83 @@
+#Himalaya Region (56000) #see Nepal.txt and India.txt for balance of region
+#under the rule of Bhutan in 1836
+#Thimpu (136000/34000 POPS)
+1329 = {
+    aristocrats = {
+        culture = tibetan
+        religion = gelugpa
+        size = 534
+    }
+
+    bureaucrats = {
+        culture = tibetan
+        religion = gelugpa
+        size = 74
+    }
+
+    officers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 23
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = gelugpa
+        size = 279
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1395
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1023
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 22854
+    }
+
+    aristocrats = {
+        culture = nepali
+        religion = hindu
+        size = 46
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = hindu
+        size = 69
+    }
+
+    artisans = {
+        culture = nepali
+        religion = hindu
+        size = 186
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = hindu
+        size = 23
+    }
+
+    serfs = {
+        culture = nepali
+        religion = hindu
+        size = 3394
+    }
+
+    slaves = {
+        culture = assamese
+        religion = hindu
+        size = 6510
+    }
+
+}

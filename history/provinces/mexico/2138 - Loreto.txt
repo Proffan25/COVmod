@@ -1,0 +1,6 @@
+owner = VNS
+controller = VNS
+terrain = new_world_semidesert
+add_core = VNS
+trade_goods = fish
+life_rating = 32

@@ -1,0 +1,5 @@
+owner = VPE
+controller = VPE
+add_core = VPE
+trade_goods = wool
+life_rating = 37

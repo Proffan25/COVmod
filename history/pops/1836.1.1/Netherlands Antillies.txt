@@ -1,0 +1,108 @@
+#Dutch West Indies Region : 19500
+#Ruled by Netherlands 1836
+#Curacao (12300/3100 POPS)
+2234 = {
+
+    aristocrats = {
+        culture = dutch
+        religion = protestant
+        size = 62
+    }
+
+    bureaucrats = {
+        culture = dutch
+        religion = protestant
+        size = 4
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 20
+    }
+
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 57
+    }
+
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 16
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 1705
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 738
+    }
+}
+#Aruba (2400/600 POPS)
+2235 = {
+
+    aristocrats = {
+        culture = dutch
+        religion = protestant
+        size = 0
+    }
+
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 328
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 143
+    }
+}
+#Philipsburg - Saint Martin (4800/1200 POPS)
+2236 = {
+
+    aristocrats = {
+        culture = dutch
+        religion = protestant
+        size = 7
+    }
+
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 19
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 42
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 312
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 78
+    }
+
+}

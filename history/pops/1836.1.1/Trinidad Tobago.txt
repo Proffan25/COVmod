@@ -1,0 +1,115 @@
+#Trinidad & Tobago Region (69000/14750 POPS)
+#ruled by Britain 1836
+#Trinidad (44000/11000 POPS)
+2237 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 19
+    }
+
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 11
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 19
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 390
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 19
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 319
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 58
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 585
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 78
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 7078
+    }
+}
+#Tobago (15000/3750 POPS)
+2238 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 7
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 3
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 19
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 46
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 39
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 117
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 39
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 2652
+    }
+
+}

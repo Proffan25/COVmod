@@ -1,0 +1,192 @@
+#Gabon Region (180000)  #see Gulf of Guinea.txt for balance of region
+#uncolonized in 1836/under the influence of Teke
+#Libreville (48000/12000 POPS)
+1972 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 46
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 69
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 139
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 23
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 2511
+    }
+
+    aristocrats = {
+        culture = forest_bantu
+        religion = animist
+        size = 139
+    }
+
+    clergymen = {
+        culture = forest_bantu
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = forest_bantu
+        religion = animist
+        size = 418
+    }
+
+    soldiers = {
+        culture = forest_bantu
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = forest_bantu
+        religion = animist
+        size = 7626
+    }
+}
+#Mayumbe (32000/8000 POPS)
+1974 = {
+    aristocrats = {
+        culture = forest_bantu
+        religion = animist
+        size = 139
+    }
+
+    clergymen = {
+        culture = forest_bantu
+        religion = animist
+        size = 69
+    }
+
+    artisans = {
+        culture = forest_bantu
+        religion = animist
+        size = 372
+    }
+
+    soldiers = {
+        culture = forest_bantu
+        religion = animist
+        size = 69
+    }
+
+    farmers = {
+        culture = forest_bantu
+        religion = animist
+        size = 6789
+    }
+}
+#Moanda (28000/7000 POPS)
+1975 = {
+    aristocrats = {
+        culture = forest_bantu
+        religion = animist
+        size = 116
+    }
+
+    clergymen = {
+        culture = forest_bantu
+        religion = animist
+        size = 69
+    }
+
+    artisans = {
+        culture = forest_bantu
+        religion = animist
+        size = 325
+    }
+
+    soldiers = {
+        culture = forest_bantu
+        religion = animist
+        size = 69
+    }
+
+    farmers = {
+        culture = forest_bantu
+        religion = animist
+        size = 5928
+    }
+}
+#uncolonized in 1836
+#Makokou (72000/18000 POPS)
+1976 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 139
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 69
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 372
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 69
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 6789
+    }
+
+    aristocrats = {
+        culture = forest_bantu
+        religion = animist
+        size = 162
+    }
+
+    clergymen = {
+        culture = forest_bantu
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = forest_bantu
+        religion = animist
+        size = 465
+    }
+
+    soldiers = {
+        culture = forest_bantu
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = forest_bantu
+        religion = animist
+        size = 8486
+    }
+
+}

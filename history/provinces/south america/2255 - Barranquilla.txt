@@ -1,0 +1,5 @@
+owner = VNG
+controller = VNG
+add_core = VNG
+trade_goods = fish
+life_rating = 35

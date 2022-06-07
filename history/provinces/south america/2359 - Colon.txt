@@ -1,0 +1,6 @@
+owner = LFE
+controller = LFE
+add_core = LFE
+add_core = LPL
+trade_goods = cattle
+life_rating = 35

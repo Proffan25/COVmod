@@ -1,0 +1,6 @@
+owner = VNG
+controller = VNG
+add_core = VNG
+trade_goods = coal
+terrain = montane_forest
+life_rating = 34

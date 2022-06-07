@@ -1,0 +1,66 @@
+#Eastern Melanesia (96000)
+#uncolonized in 1836 #ruled by the King of Fiji}
+#Fiji (88000/22000 POPS)
+2454 = {
+    aristocrats = {
+        culture = melanesian
+        religion = animist
+        size = 416
+    }
+
+    clergymen = {
+        culture = melanesian
+        religion = animist
+        size = 220
+    }
+
+    artisans = {
+        culture = melanesian
+        religion = animist
+        size = 1078
+    }
+
+    soldiers = {
+        culture = melanesian
+        religion = animist
+        size = 220
+    }
+
+    farmers = {
+        culture = melanesian
+        religion = animist
+        size = 19624
+    }
+}
+#Lomaji (8000/2000 POPS)
+2520 = {
+    aristocrats = {
+        culture = melanesian
+        religion = animist
+        size = 24
+    }
+
+    clergymen = {
+        culture = melanesian
+        religion = animist
+        size = 49
+    }
+
+    artisans = {
+        culture = melanesian
+        religion = animist
+        size = 98
+    }
+
+    soldiers = {
+        culture = melanesian
+        religion = animist
+        size = 24
+    }
+
+    farmers = {
+        culture = melanesian
+        religion = animist
+        size = 1764
+    }
+}

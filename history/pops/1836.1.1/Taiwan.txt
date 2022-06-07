@@ -1,0 +1,265 @@
+#Taiwan Region (2980000)
+#under the rule of China in 1836
+#Tainan (1452000/363000 POPS) #now part of Taiwan
+1485 = {
+    aristocrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1418
+    }
+
+    clergymen = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1232
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = mahayana
+        size = 6138
+    }
+
+    soldiers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1232
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 112739
+    }
+
+    slaves = {
+        culture = nanfaren
+        religion = mahayana
+        size = 18600
+    }
+
+    aristocrats = {
+        culture = min
+        religion = mahayana
+        size = 3255
+    }
+
+    clergymen = {
+        culture = min
+        religion = mahayana
+        size = 2325
+    }
+
+    artisans = {
+        culture = min
+        religion = mahayana
+        size = 2325
+    }
+
+    artisans = {
+        culture = min
+        religion = mahayana
+        size = 2325
+    }
+
+    soldiers = {
+        culture = min
+        religion = mahayana
+        size = 2325
+    }
+
+    farmers = {
+        culture = min
+        religion = mahayana
+        size = 153450
+    }
+}
+#Taitung (67k - 268k) #now part of Taiwan
+2562 = {
+    farmers = {
+        culture = asian_minor
+        religion = animist
+        size = 15810
+    }
+
+    slaves = {
+        culture = asian_minor
+        religion = animist
+        size = 18600
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = animist
+        size = 4650
+    }
+
+    aristocrats = {
+        culture = asian_minor
+        religion = animist
+        size = 930
+    }
+
+    aristocrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 139
+    }
+
+    clergymen = {
+        culture = nanfaren
+        religion = mahayana
+        size = 93
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = mahayana
+        size = 697
+    }
+
+    soldiers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1209
+    }
+
+    farmers = {
+        culture = min
+        religion = mahayana
+        size = 12020
+    }
+}
+
+#Penghu (15K - 60 K POPS) #british trade post 1836 - old cocos island
+2406 = {
+    aristocrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 139
+    }
+
+    clergymen = {
+        culture = nanfaren
+        religion = mahayana
+        size = 93
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = mahayana
+        size = 697
+    }
+
+    soldiers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1209
+    }
+
+    farmers = {
+        culture = min
+        religion = mahayana
+        size = 12020
+    }
+
+}
+
+#Taipei (1452000/363000 POPS) formerly 2681 - Kikkiaki in Russia.txt
+2681 = {
+    aristocrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1395
+    }
+
+    bureaucrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 372
+    }
+
+    officers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 674
+    }
+
+    clergymen = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1139
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = mahayana
+        size = 5719
+    }
+
+    soldiers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1162
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 102881
+    }
+
+    aristocrats = {
+        culture = min
+        religion = mahayana
+        size = 2790
+    }
+
+    clergymen = {
+        culture = min
+        religion = mahayana
+        size = 2232
+    }
+
+    artisans = {
+        culture = min
+        religion = mahayana
+        size = 1860
+    }
+
+    artisans = {
+        culture = min
+        religion = mahayana
+        size = 1860
+    }
+
+    soldiers = {
+        culture = min
+        religion = mahayana
+        size = 2232
+    }
+
+    farmers = {
+        culture = min
+        religion = mahayana
+        size = 204786
+    }
+
+    bureaucrats = {
+        culture = manchu
+        religion = mahayana
+        size = 46
+    }
+
+    officers = {
+        culture = manchu
+        religion = mahayana
+        size = 23
+    }
+
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 46
+    }
+}

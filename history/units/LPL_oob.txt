@@ -1,0 +1,252 @@
+SPA = {
+    value = -200
+}
+
+PRG = {
+    value = -200
+}
+
+PBA = {
+    value = -100
+}
+
+USA = {
+    value = 25
+}
+
+LFE = {
+    value = -100
+}
+
+army = {
+    name = "Ejército de Buenos Aires"
+    location = 2348
+    regiment = {
+        name= "1. División de Infantería"
+        type = infantry
+        home = 2348
+    }
+
+    regiment = {
+        name= "2. División de Infantería"
+        type = infantry
+        home = 2348
+    }
+
+    regiment = {
+        name= "3. División de Infantería"
+        type = cavalry
+        home = 2348
+    }
+}
+
+army = {
+    name = "Ejército del Norte"
+    location = 2314
+    regiment = {
+        name= "4. División de Infantería"
+        type = infantry
+        home = 2348
+    }
+
+    regiment = {
+        name= "5. División de Infantería"
+        type = infantry
+        home = 2373
+    }
+
+    regiment = {
+        name= "6. División de Infantería"
+        type = infantry
+        home = 2348
+    }
+
+    regiment = {
+        name= "1. División de Caballería"
+        type = cavalry
+        home = 2348
+    }
+
+    regiment = {
+        name= "2. División de Caballería"
+        type = cavalry
+        home = 2379
+    }
+
+    regiment = {
+        name= "1. División de Artillería"
+        type = artillery
+        home = 2379
+    }
+}
+
+army = {
+    name = "Ejército de los Andes"
+    location = 2389
+    regiment = {
+        name= "7. División de Infantería"
+        type = infantry
+        home = 2389
+    }
+
+    regiment = {
+        name= "8. División de Infantería"
+        type = infantry
+        home = 2385
+    }
+
+    regiment = {
+        name= "3. División de Caballería"
+        type = cavalry
+        home = 2387
+    }
+
+    regiment = {
+        name= "2. División de Artillería"
+        type = artillery
+        home = 2348
+    }
+}
+
+navy = {
+    name = "Escuadra de las Provincias Unidas"
+    location = 2348
+    ship = {
+        name= "Hércules"
+        type = frigate
+    }
+    ship = {
+        name= "Céfiro"
+        type = frigate
+    }
+    ship = {
+        name= "Belfast"
+        type = frigate
+    }
+    ship = {
+        name= "Nancy"
+        type = frigate
+    }
+    ship = {
+        name= "Julieta"
+        type = frigate
+    }
+    ship = {
+        name= "Fortuna"
+        type = frigate
+    }
+    ship = {
+        name= "San Luis"
+        type = frigate
+    }
+    ship = {
+        name= "Nuestra Señora del Carmen"
+        type = frigate
+    }
+
+}
+
+
+leader = {
+   name = "José de San Martín"
+   type = land
+   date = 1815.1.1
+   background = natural_born_leader
+   personality = implacable
+}
+
+leader = {
+   name = "Manuel Belgrano"
+   type = land
+   date = 1815.1.1
+   background = politician
+   personality = tactful
+}
+
+leader = {
+   name = "Antonio González Balcarce"
+   type = land
+   date = 1815.1.1
+   background = cavalry_school
+   personality = persistant
+}
+
+leader = {
+   name = "José María Paz"
+   type = land
+   date = 1815.1.1
+   background = war_college
+   personality = implacable
+}
+
+leader = {
+   name = "Gregorio de Lamadrid"
+   type = land
+   date = 1815.1.1
+   background = aristocrat
+   personality = audacious
+}
+
+leader = {
+   name = "Martín Miguel de Güemes"
+   type = land
+   date = 1815.1.1
+   background = school_of_defense
+   personality = cautious
+}
+
+leader = {
+   name = "José Rondeau"
+   type = land
+   date = 1815.1.1
+   background = war_college
+   personality = skilled
+}
+
+leader = {
+   name = "Miguel Estanislao Soler"
+   type = land
+   date = 1815.1.1
+   background = generals_aide
+   personality = competent
+}
+
+leader = {
+   name = "Ángel Pacheco"
+   type = land
+   date = 1815.1.1
+   background = rising_star
+   personality = disciplined
+}
+
+leader = {
+   name = "Juan Lavalle"
+   type = land
+   date = 1815.1.1
+   background = rising_star
+   personality = choleric
+}
+
+leader = {
+   name = "Carlos María de Alvear"
+   type = land
+   date = 1815.1.1
+   background = war_college
+   personality = glory_hound
+}
+
+leader = {
+   name = "Martín Rodríguez"
+   type = land
+   date = 1815.1.1
+   background = amateur
+   personality = inept
+}
+
+leader = {
+    name = "Guillermo Brown"
+    type = sea
+    date="1815.1.1"
+    personality = clever
+    background = expert_raider
+}

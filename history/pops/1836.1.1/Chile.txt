@@ -1,0 +1,917 @@
+#Atacama Region (164000) #see Peru.txt for balance of Region
+#Ruled by Bolivia 1836
+#Antofagasta (80000/20000 POPS)
+2305 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 348
+    }
+
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 122
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 328
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 61
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 5658
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = aimara
+        religion = catholic
+        size = 491
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = catholic
+        size = 102
+    }
+
+    farmers = {
+        culture = aimara
+        religion = catholic
+        size = 9204
+    }
+}
+#Calama (32000/8000 POPS)
+2309 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 143
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 122
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 2111
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = aimara
+        religion = catholic
+        size = 205
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = aimara
+        religion = catholic
+        size = 3853
+    }
+}
+#Ruled by Peru 1836
+#Iquique (32000/8000 POPS)
+2307 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 143
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 82
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 1353
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = aimara
+        religion = catholic
+        size = 245
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = catholic
+        size = 61
+    }
+
+    farmers = {
+        culture = aimara
+        religion = catholic
+        size = 4571
+    }
+}
+#Arica (20000/5000 POPS)
+2308 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 102
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 61
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 8
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 606
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = catholic
+        size = 20
+    }
+
+    artisans = {
+        culture = aimara
+        religion = catholic
+        size = 164
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = aimara
+        religion = catholic
+        size = 3054
+    }
+}
+#Chile Norte Region (116000)
+#Ruled by Chile 1836
+#Copiapo (52000/13000 POPS)
+2322 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 225
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 102
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 533
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 922
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 17896
+    }
+}
+#La Serena (64000/16000 POPS)
+2323 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 287
+    }
+
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 82
+    }
+
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 122
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 656
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 143
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 15129
+    }
+}
+#Valle Central Region (640000)
+#Ruled by Chile 1836
+#Santiago (420000/105000 POPS)
+2324 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 1230
+    }
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 574
+    }
+
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 328
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 82
+    }
+
+    officers = {
+        culture = spanish
+        religion = catholic
+        size = 122
+    }
+
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 738
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 122
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 12710
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 1640
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 4510
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 1230
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 73615
+    }
+}
+#Valparaiso (128000/32000 POPS)
+2325 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 307
+    }
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 245
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 266
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 8200
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 1640
+    }
+
+    officers = {
+        culture = spanish
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 902
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 18860
+    }
+}
+#Vina del Mar (72000/18000 POPS)
+2326 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 307
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 143
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 738
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 902
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 12751
+    }
+}
+#Talca (20000/5000 POPS)
+2327 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 102
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 205
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 3710
+    }
+}
+#Bio-Bio Region (232000)
+#Ruled by Chile 1836
+#Valdivia (92000/23000 POPS)
+2328 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 287
+    }
+
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 143
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 697
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 902
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 11931
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 82
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    artisans = {
+        culture = patagonian
+        religion = animist
+        size = 245
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 4489
+    }
+}
+#Temuco (36000/9000 POPS)
+2329 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 102
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 205
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 3710
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+    artisans = {
+        culture = patagonian
+        religion = animist
+        size = 164
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2972
+    }
+}
+#Cauquenes (68000/17000 POPS)
+2330 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 287
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 122
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 697
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 902
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 12013
+    }
+}
+#Chillan (36000/9000 POPS)
+2331 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 143
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 61
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 287
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 61
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 5186
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    artisans = {
+        culture = patagonian
+        religion = animist
+        size = 82
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 1476
+    }
+}
+#Magellanes Region (92000)
+#Ruled by Chile 1836
+#Osorno (68000/17000 POPS)
+2332 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 12
+    }
+
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 8
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 102
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 533
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 102
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 9676
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+    artisans = {
+        culture = patagonian
+        religion = animist
+        size = 164
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2952
+    }
+}
+#uncolonized/claimed by Chile 1836
+#Puerto Aisen (12000/3000 POPS)
+2333 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+    artisans = {
+        culture = patagonian
+        religion = animist
+        size = 122
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2214
+    }
+}
+#Punta Arenas (8000/2000 POPS)
+2334 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    artisans = {
+        culture = patagonian
+        religion = animist
+        size = 82
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 1476
+    }
+}
+#Porvenir (4000/1000 POPS)
+2335 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    artisans = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 12
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 738
+    }
+
+}

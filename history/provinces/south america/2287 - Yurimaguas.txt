@@ -1,0 +1,6 @@
+owner = VPE
+controller = VPE
+add_core = VPE
+trade_goods = rubber
+terrain = montane_forest
+life_rating = 33

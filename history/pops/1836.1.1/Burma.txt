@@ -1,0 +1,1310 @@
+#Pegu Region (1336000)
+#Under rule of Burma 1836
+#Rangoon (344000/86000 POPS)
+1330 = {
+    aristocrats = {
+        culture = karen
+        religion = theravada
+        size = 186
+    }
+
+    clergymen = {
+        culture = karen
+        religion = theravada
+        size = 232
+    }
+
+    artisans = {
+        culture = karen
+        religion = theravada
+        size = 1116
+    }
+
+    soldiers = {
+        culture = karen
+        religion = theravada
+        size = 232
+    }
+
+    farmers = {
+        culture = karen
+        religion = theravada
+        size = 11160
+    }
+
+    aristocrats = {
+        culture = asian_minor #Mon
+        religion = theravada
+        size = 93
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = theravada
+        size = 139
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = theravada
+        size = 1023
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = theravada
+        size = 139
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 465
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 441
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 2185
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 35991
+    }
+
+    slaves = {
+        culture = karen
+        religion = theravada
+        size = 9300
+    }
+}
+#Bassein (124000/31000 POPS)
+1331 = {
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 279
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 255
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 1255
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 279
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 23040
+    }
+
+    aristocrats = {
+        culture = asian_minor #Mon
+        religion = theravada
+        size = 23
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = theravada
+        size = 69
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = theravada
+        size = 186
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = theravada
+        size = 46
+    }
+}
+#Pegu (560000/140000 POPS)
+1332 = {
+    aristocrats = {
+        culture = karen
+        religion = theravada
+        size = 372
+    }
+
+    clergymen = {
+        culture = karen
+        religion = theravada
+        size = 465
+    }
+
+    artisans = {
+        culture = karen
+        religion = theravada
+        size = 2232
+    }
+
+    soldiers = {
+        culture = karen
+        religion = theravada
+        size = 465
+    }
+
+    farmers = {
+        culture = karen
+        religion = theravada
+        size = 22506
+    }
+
+    aristocrats = {
+        culture = asian_minor #Mon
+        religion = theravada
+        size = 93
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = theravada
+        size = 139
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = theravada
+        size = 790
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = theravada
+        size = 139
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 790
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = theravada
+        size = 558
+    }
+
+    officers = {
+        culture = burmese
+        religion = theravada
+        size = 372
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 744
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 3720
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 62589
+    }
+
+    slaves = {
+        culture = karen
+        religion = theravada
+        size = 18600
+    }
+}
+#Toungoo (308000/77000 POPS)
+1333 = {
+    aristocrats = {
+        culture = karen
+        religion = theravada
+        size = 279
+    }
+
+    clergymen = {
+        culture = karen
+        religion = theravada
+        size = 302
+    }
+
+    artisans = {
+        culture = karen
+        religion = theravada
+        size = 1488
+    }
+
+    soldiers = {
+        culture = karen
+        religion = theravada
+        size = 325
+    }
+
+    farmers = {
+        culture = karen
+        religion = theravada
+        size = 27365
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 465
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 465
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 2092
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 36037
+    }
+
+}
+#Kyaukse Region (1072000)
+#Under rule of Burma in 1836
+#Ava (240000/70000 POPS)
+1334 = {
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 465
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 465
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 2232
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 36828
+    }
+
+    aristocrats = {
+        culture = kachin
+        religion = animist
+        size = 46
+    }
+
+    clergymen = {
+        culture = kachin
+        religion = animist
+        size = 46
+    }
+
+    artisans = {
+        culture = kachin
+        religion = animist
+        size = 232
+    }
+
+    soldiers = {
+        culture = kachin
+        religion = animist
+        size = 46
+    }
+
+    slaves = {
+        culture = kachin
+        religion = animist
+        size = 5208
+    }
+
+    aristocrats = {
+        culture = shan
+        religion = theravada
+        size = 69
+    }
+
+    clergymen = {
+        culture = shan
+        religion = theravada
+        size = 69
+    }
+
+    artisans = {
+        culture = shan
+        religion = theravada
+        size = 325
+    }
+
+    soldiers = {
+        culture = shan
+        religion = theravada
+        size = 69
+    }
+
+    farmers = {
+        culture = shan
+        religion = theravada
+        size = 5975
+    }
+}
+#Kyaukse (472000/118000 POPS)
+1335 = {
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 1069
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = theravada
+        size = 395
+    }
+
+    officers = {
+        culture = burmese
+        religion = theravada
+        size = 279
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 1046
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 5115
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 93465
+    }
+
+    aristocrats = {
+        culture = shan
+        religion = theravada
+        size = 46
+    }
+
+    clergymen = {
+        culture = shan
+        religion = theravada
+        size = 46
+    }
+
+    artisans = {
+        culture = shan
+        religion = theravada
+        size = 232
+    }
+
+    soldiers = {
+        culture = shan
+        religion = theravada
+        size = 46
+    }
+
+    slaves = {
+        culture = shan
+        religion = theravada
+        size = 4278
+    }
+}
+#Magwe (120000/30000 POPS)
+1336 = {
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 302
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 279
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 1395
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 1023
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 24993
+    }
+}
+#Prome (240000/60000 POPS)
+1337 = {
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 581
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 581
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 2790
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 1023
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 51010
+    }
+
+}
+#Shan Region (680000)
+#Under Burma rule 1836
+#Taunggye (416000/104000 POPS)
+1338 = {
+    aristocrats = {
+        culture = shan
+        religion = theravada
+        size = 837
+    }
+
+    bureaucrats = {
+        culture = shan
+        religion = theravada
+        size = 209
+    }
+
+    officers = {
+        culture = shan
+        religion = theravada
+        size = 162
+    }
+
+    clergymen = {
+        culture = shan
+        religion = theravada
+        size = 790
+    }
+
+    artisans = {
+        culture = shan
+        religion = theravada
+        size = 3952
+    }
+
+    soldiers = {
+        culture = shan
+        religion = theravada
+        size = 790
+    }
+
+    farmers = {
+        culture = shan
+        religion = theravada
+        size = 57427
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 139
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = theravada
+        size = 93
+    }
+
+    officers = {
+        culture = burmese
+        religion = theravada
+        size = 23
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 186
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 1023
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 209
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 17019
+    }
+
+    slaves = {
+        culture = thai
+        religion = theravada
+        size = 13950
+    }
+}
+#Lashio (264000/66000 POPS)
+1340 = {
+    aristocrats = {
+        culture = shan
+        religion = theravada
+        size = 465
+    }
+
+    clergymen = {
+        culture = shan
+        religion = theravada
+        size = 465
+    }
+
+    artisans = {
+        culture = shan
+        religion = theravada
+        size = 2325
+    }
+
+    soldiers = {
+        culture = shan
+        religion = theravada
+        size = 465
+    }
+
+    farmers = {
+        culture = shan
+        religion = theravada
+        size = 42780
+    }
+
+    aristocrats = {
+        culture = kachin
+        religion = animist
+        size = 93
+    }
+
+    clergymen = {
+        culture = kachin
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = kachin
+        religion = animist
+        size = 511
+    }
+
+    soldiers = {
+        culture = kachin
+        religion = animist
+        size = 139
+    }
+
+    farmers = {
+        culture = kachin
+        religion = animist
+        size = 9393
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 69
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 325
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 93
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 6021
+    }
+
+    slaves = {
+        culture = lao
+        religion = theravada
+        size = 6510
+    }
+
+}
+#Kachin Region (868000)
+#Under rule of Burma 1836
+#Haka (288000/72000 POPS)
+1339 = {
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 46
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 46
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 232
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 1023
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 3394
+    }
+
+    aristocrats = {
+        culture = asian_minor #Chin
+        religion = animist
+        size = 465
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = animist
+        size = 465
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = animist
+        size = 2790
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = animist
+        size = 465
+    }
+
+    aristocrats = {
+        culture = kachin
+        religion = animist
+        size = 69
+    }
+
+    clergymen = {
+        culture = kachin
+        religion = animist
+        size = 325
+    }
+
+    artisans = {
+        culture = kachin
+        religion = animist
+        size = 744
+    }
+
+    soldiers = {
+        culture = kachin
+        religion = animist
+        size = 186
+    }
+
+    farmers = {
+        culture = kachin
+        religion = animist
+        size = 14484
+    }
+}
+#Putao (216000/54000 POPS)
+1341 = {
+    aristocrats = {
+        culture = kachin
+        religion = animist
+        size = 511
+    }
+
+    clergymen = {
+        culture = kachin
+        religion = animist
+        size = 511
+    }
+
+    artisans = {
+        culture = kachin
+        religion = animist
+        size = 2325
+    }
+
+    soldiers = {
+        culture = kachin
+        religion = animist
+        size = 511
+    }
+
+    farmers = {
+        culture = kachin
+        religion = animist
+        size = 46360
+    }
+}
+#Myitkyina (364000/91000 POPS)
+1342 = {
+    aristocrats = {
+        culture = kachin
+        religion = animist
+        size = 372
+    }
+
+    clergymen = {
+        culture = kachin
+        religion = animist
+        size = 372
+    }
+
+    artisans = {
+        culture = kachin
+        religion = animist
+        size = 1860
+    }
+
+    soldiers = {
+        culture = kachin
+        religion = animist
+        size = 372
+    }
+
+    farmers = {
+        culture = kachin
+        religion = animist
+        size = 35154
+    }
+
+    aristocrats = {
+        culture = shan
+        religion = theravada
+        size = 232
+    }
+
+    clergymen = {
+        culture = shan
+        religion = theravada
+        size = 232
+    }
+
+    artisans = {
+        culture = shan
+        religion = theravada
+        size = 1116
+    }
+
+    soldiers = {
+        culture = shan
+        religion = theravada
+        size = 232
+    }
+
+    farmers = {
+        culture = shan
+        religion = theravada
+        size = 19576
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 279
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 279
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 1255
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = theravada
+        size = 93
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 930
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 19483
+    }
+
+    slaves = {
+        culture = asian_minor
+        religion = animist
+        size = 9300
+    }
+
+}
+#Tenasserim Region - 604000
+#Under rule of Britain 1836
+#Moulmein (272000/68000 POPS)
+1343 = {
+    aristocrats = {
+        culture = karen
+        religion = theravada
+        size = 372
+    }
+
+    clergymen = {
+        culture = karen
+        religion = theravada
+        size = 325
+    }
+
+    artisans = {
+        culture = karen
+        religion = theravada
+        size = 1023
+    }
+
+    soldiers = {
+        culture = karen
+        religion = theravada
+        size = 279
+    }
+
+    farmers = {
+        culture = karen
+        religion = theravada
+        size = 28504
+    }
+
+    farmers = {
+        culture = karen
+        religion = protestant
+        size = 279
+    }
+
+    aristocrats = {
+        culture = asian_minor #Mon
+        religion = theravada
+        size = 186
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = theravada
+        size = 348
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = theravada
+        size = 1278
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = theravada
+        size = 232
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 93
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 69
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 1395
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = theravada
+        size = 93
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 139
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 4719
+    }
+
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 23
+    }
+}
+#Mergui (332000/83000 POPS)
+1344 = {
+    aristocrats = {
+        culture = karen
+        religion = theravada
+        size = 372
+    }
+
+    clergymen = {
+        culture = karen
+        religion = theravada
+        size = 348
+    }
+
+    artisans = {
+        culture = karen
+        religion = theravada
+        size = 1023
+    }
+
+    soldiers = {
+        culture = karen
+        religion = theravada
+        size = 372
+    }
+
+    farmers = {
+        culture = karen
+        religion = theravada
+        size = 32108
+    }
+
+    farmers = {
+        culture = karen
+        religion = protestant
+        size = 279
+    }
+
+    aristocrats = {
+        culture = thai
+        religion = theravada
+        size = 93
+    }
+
+    clergymen = {
+        culture = thai
+        religion = theravada
+        size = 186
+    }
+
+    artisans = {
+        culture = thai
+        religion = theravada
+        size = 1162
+    }
+
+    soldiers = {
+        culture = thai
+        religion = theravada
+        size = 186
+    }
+
+    farmers = {
+        culture = thai
+        religion = theravada
+        size = 16042
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 325
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 279
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 1860
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 279
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 21436
+    }
+
+    farmers = {
+        culture = malay
+        religion = sunni
+        size = 930
+    }
+
+}
+#Arakan Region : 176000
+#Under rule of Britain 1836
+#Sittwe (176000/44000 POPS)
+1345 = {
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 9
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = sunni
+        size = 93
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = sunni
+        size = 116
+    }
+
+    artisans = {
+        culture = burmese
+        religion = sunni
+        size = 2557
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = sunni
+        size = 139
+    }
+
+    farmers = {
+        culture = burmese
+        religion = sunni
+        size = 13833
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = theravada
+        size = 232
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = theravada
+        size = 46
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 348
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 5812
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 232
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 14717
+    }
+
+    clergymen = {
+        culture = asian_minor #Chin
+        religion = animist
+        size = 23
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = animist
+        size = 883
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = sunni
+        size = 46
+    }
+
+    farmers = {
+        culture = bengali
+        religion = sunni
+        size = 1813
+    }
+
+}

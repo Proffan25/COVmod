@@ -1,0 +1,7 @@
+owner = BEP
+controller = BEP
+add_core = BEP
+add_core = MUG
+add_core = HND
+trade_goods = cattle
+life_rating = 32

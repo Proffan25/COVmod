@@ -1,0 +1,338 @@
+#Liberia Region (880000)
+#under the rule of Liberia in 1836
+#Monrovia (252000/63000 POPS)
+1887 = {
+    farmers = {
+        culture = kru
+        religion = animist
+        size = 2580
+    }
+
+    aristocrats = {
+        culture = kru
+        religion = animist
+        size = 813
+    }
+
+    clergymen = {
+        culture = kru
+        religion = animist
+        size = 418
+    }
+
+    artisans = {
+        culture = kru
+        religion = animist
+        size = 2185
+    }
+
+    soldiers = {
+        culture = kru
+        religion = animist
+        size = 418
+    }
+
+    farmers = {
+        culture = kru
+        religion = animist
+        size = 42663
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 93
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 186
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 1511
+    }
+    #was african minor
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 93
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 186
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 1511
+    }
+}
+#Harper (204000/51000 POPS)
+1888 = {
+    artisans = {
+        culture = kru
+        religion = animist
+        size = 1767
+    }
+
+    soldiers = {
+        culture = kru
+        religion = animist
+        size = 348
+    }
+
+    farmers = {
+        culture = kru
+        religion = animist
+        size = 22878
+    }
+
+    aristocrats = {
+        culture = western_nigritic
+        religion = animist
+        size = 232
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = animist
+        size = 116
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = animist
+        size = 604
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = animist
+        size = 116
+    }
+
+    farmers = {
+        culture = western_nigritic
+        religion = animist
+        size = 20320
+    }
+}
+#uncolonized in 1836
+#Bopulu (124000/31000 POPS)
+1889 = {
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 441
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 232
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 1162
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 232
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 30480
+    }
+    #was african minor
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 93
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 279
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 32991
+    }
+}
+#Gbarnga (132000/33000 POPS)
+1890 = {
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 186
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 93
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 511
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 116
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 13973
+    }
+    #was african minor
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 395
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 209
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 1023
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 209
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 60473
+    }
+}
+#Zwedru (168000/42000 POPS)
+1891 = {
+    aristocrats = {
+        culture = kru
+        religion = animist
+        size = 395
+    }
+
+    clergymen = {
+        culture = afro_american
+        religion = animist
+        size = 186
+    }
+
+    artisans = {
+        culture = afro_american
+        religion = animist
+        size = 883
+    }
+
+    soldiers = {
+        culture = kru
+        religion = animist
+        size = 232
+    }
+
+    farmers = {
+        culture = kru
+        religion = animist
+        size = 5556
+    }
+
+    aristocrats = {
+        culture = afro_american
+        religion = animist
+        size = 325
+    }
+
+    clergymen = {
+        culture = afro_american
+        religion = animist
+        size = 186
+    }
+
+    artisans = {
+        culture = afro_american
+        religion = animist
+        size = 883
+    }
+
+    soldiers = {
+        culture = afro_american
+        religion = animist
+        size = 186
+    }
+
+    farmers = {
+        culture = western_nigritic
+        religion = animist
+        size = 30039
+    }
+
+}

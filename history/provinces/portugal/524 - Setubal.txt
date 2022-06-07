@@ -1,0 +1,5 @@
+owner = PBA
+controller = PBA
+add_core = PBA
+trade_goods = fish
+life_rating = 35

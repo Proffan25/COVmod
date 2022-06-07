@@ -1,0 +1,5 @@
+owner = DUR
+controller = DUR
+add_core = DUR
+trade_goods = wool
+life_rating = 35

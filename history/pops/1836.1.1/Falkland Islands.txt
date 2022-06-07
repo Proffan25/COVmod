@@ -1,0 +1,11 @@
+#Falkland Islands (360)
+#Ruled by Britain 1836
+#Falkland Islands (300/75 POPS)
+2131 = {
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 0
+    }
+}

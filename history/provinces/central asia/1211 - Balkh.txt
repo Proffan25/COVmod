@@ -1,0 +1,7 @@
+owner = DUR
+controller = DUR
+add_core = BDK
+add_core = DUR
+terrain = dryhills
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,127 @@
+#Rio de Oro Region (20000) #see Mauritania.txt for balance of region
+#uncolonized in 1836
+#Al Aiyun (12000/3000 POPS)  aguia el-Hamra
+1773 = {
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 9
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 13
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 46
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 23
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 93
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 23
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 46
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 93
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 23
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 744
+    }
+}
+#Dahkla (8000/2000 POPS)
+1774 = {
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 9
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 13
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 46
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 23
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 279
+    }
+
+    aristocrats = {
+        culture = maures
+        religion = sunni
+        size = 9
+    }
+
+    clergymen = {
+        culture = maures
+        religion = sunni
+        size = 13
+    }
+
+    artisans = {
+        culture = maures
+        religion = sunni
+        size = 46
+    }
+
+    soldiers = {
+        culture = maures
+        religion = sunni
+        size = 23
+    }
+
+    farmers = {
+        culture = maures
+        religion = sunni
+        size = 279
+    }
+
+}

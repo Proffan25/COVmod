@@ -1,0 +1,55 @@
+color = { 207 20 43 }
+graphical_culture = Generic
+
+party = {
+    name = "BEP_reactionary"
+    start_date = 1815.1.1
+    end_date = 2000.1.1
+
+    ideology = reactionary
+
+    social_policy = colonial_spending_policy
+    economic_policy = state_capitalism
+    trade_policy = free_trade
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = jingoism
+}
+
+unit_names = {
+    dreadnought = {
+        Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+        Westminster Stuart
+    }
+    ironclad = {
+        Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+        Westminster Stuart
+
+    }
+    manowar = {
+        Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+        Westminster Stuart
+    }
+    cruiser = {
+        Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+        Westminster Stuart
+    }
+    frigate = {
+        Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+        Westminster Stuart
+    }
+    monitor = {
+        Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+        Westminster Stuart
+    }
+    clipper_transport = {
+
+    }
+    steam_transport = {
+
+    }
+    commerce_raider = {
+        Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+        Westminster Stuart
+    }
+}

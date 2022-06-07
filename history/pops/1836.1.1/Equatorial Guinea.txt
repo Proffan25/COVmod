@@ -1,0 +1,152 @@
+#Equatorial Guinea (143000)
+#Ruled By Spain in 1836
+#Fernando Po (11000/2750 POPS)
+1955 = {
+
+    aristocrats = {
+        culture = forest_bantu
+        religion = animist
+        size = 9
+    }
+
+    officers = {
+        culture = forest_bantu
+        religion = animist
+        size = 18
+    }
+
+    clergymen = {
+        culture = forest_bantu
+        religion = animist
+        size = 18
+    }
+
+    artisans = {
+        culture = forest_bantu
+        religion = animist
+        size = 111
+    }
+
+    soldiers = {
+        culture = forest_bantu
+        religion = animist
+        size = 46
+    }
+
+    farmers = {
+        culture = forest_bantu
+        religion = animist
+        size = 492
+    }
+
+    aristocrats = {
+        culture = ibo
+        religion = animist
+        size = 9
+    }
+
+    officers = {
+        culture = ibo
+        religion = animist
+        size = 18
+    }
+
+    clergymen = {
+        culture = ibo
+        religion = animist
+        size = 18
+    }
+
+    artisans = {
+        culture = ibo
+        religion = animist
+        size = 111
+    }
+
+    soldiers = {
+        culture = ibo
+        religion = animist
+        size = 46
+    }
+
+    farmers = {
+        culture = ibo
+        religion = animist
+        size = 651
+    }
+
+    slaves = {
+        culture = kru
+        religion = animist
+        size = 585
+    }
+}
+#uncolonized in 1836
+#Bata (132000/33000 POPS)
+1973 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 325
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 279
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 1395
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 325
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 29295
+    }
+
+    aristocrats = {
+        culture = forest_bantu
+        religion = animist
+        size = 93
+    }
+
+    clergymen = {
+        culture = forest_bantu
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = forest_bantu
+        religion = animist
+        size = 93
+    }
+
+    soldiers = {
+        culture = forest_bantu
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = forest_bantu
+        religion = animist
+        size = 930
+    }
+
+    slaves = {
+        culture = ibo
+        religion = animist
+        size = 465
+    }
+}

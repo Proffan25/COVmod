@@ -1,0 +1,6 @@
+owner = PBA
+controller = PBA
+add_core = PBA
+trade_goods = cotton
+terrain = savanna
+life_rating = 35

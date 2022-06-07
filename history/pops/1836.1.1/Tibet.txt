@@ -1,0 +1,383 @@
+#Tibet Region (3752000)
+#under the rule of Tibet in 1836
+#Lhasa (892000/223000 POPS)
+1587 = {
+    aristocrats = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1069
+    }
+
+    bureaucrats = {
+        culture = tibetan
+        religion = gelugpa
+        size = 697
+    }
+
+    officers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 883
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1999
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = gelugpa
+        size = 5022
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1860
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 17260
+    }
+
+    clergymen = {
+        culture = beifaren
+        religion = gelugpa
+        size = 139
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = animist
+        size = 697
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = gelugpa
+        size = 139
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = gelugpa
+        size = 12973
+    }
+}
+#Chamdo (624000/156000 POPS)
+1588 = {
+    aristocrats = {
+        culture = tibetan
+        religion = gelugpa
+        size = 2557
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1348
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1860
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1302
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 11848
+    }
+
+    clergymen = {
+        culture = beifaren
+        religion = gelugpa
+        size = 139
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = animist
+        size = 744
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = gelugpa
+        size = 139
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = gelugpa
+        size = 1385
+    }
+}
+#Shigatse (332000/83000 POPS)
+1589 = {
+    aristocrats = {
+        culture = tibetan
+        religion = gelugpa
+        size = 148
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = gelugpa
+        size = 813
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = gelugpa
+        size = 372
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 744
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 7184
+    }
+
+    clergymen = {
+        culture = beifaren
+        religion = animist
+        size = 46
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = animist
+        size = 139
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = animist
+        size = 23
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = animist
+        size = 1650
+    }
+}
+#Lhodrak (688000/172000 POPS)
+1590 = {
+    aristocrats = {
+        culture = tibetan
+        religion = gelugpa
+        size = 3138
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1627
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = gelugpa
+        size = 7998
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1604
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 14559
+    }
+}
+#Changtang (76000/19000 POPS)
+1591 = {
+    aristocrats = {
+        culture = tibetan
+        religion = gelugpa
+        size = 348
+    }
+
+    aristocrats = {
+        culture = beifaren
+        religion = sunni
+        size = 372
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = gelugpa
+        size = 186
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = gelugpa
+        size = 883
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 162
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1608
+    }
+
+    slaves = {
+        culture = tibetan
+        religion = gelugpa
+        size = 558
+    }
+}
+#Ngari (304000/76000 POPS)
+1592 = {
+    aristocrats = {
+        culture = tibetan
+        religion = gelugpa
+        size = 465
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = gelugpa
+        size = 720
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = gelugpa
+        size = 3534
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 697
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 27132
+    }
+}
+#Tawang (836000/209000 POPS) #now NEFA in India  asian_minor = Chin
+1593 = {
+    aristocrats = {
+        culture = tibetan
+        religion = gelugpa
+        size = 2441
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1255
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = gelugpa
+        size = 6138
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 1232
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = gelugpa
+        size = 11169
+    }
+
+    aristocrats = {
+        culture = kachin
+        religion = animist
+        size = 697
+    }
+
+    clergymen = {
+        culture = kachin
+        religion = animist
+        size = 372
+    }
+
+    artisans = {
+        culture = kachin
+        religion = animist
+        size = 1813
+    }
+
+    soldiers = {
+        culture = kachin
+        religion = animist
+        size = 325
+    }
+
+    farmers = {
+        culture = kachin
+        religion = animist
+        size = 3306
+    }
+
+    aristocrats = {
+        culture = asian_minor
+        religion = animist
+        size = 697
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = animist
+        size = 348
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = animist
+        size = 1767
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = animist
+        size = 348
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = animist
+        size = 3217
+    }
+
+}

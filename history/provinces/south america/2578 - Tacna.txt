@@ -1,0 +1,6 @@
+owner = VPE
+controller = VPE
+add_core = VPE
+trade_goods = sulphur
+terrain = new_world_semidesert
+life_rating = 31

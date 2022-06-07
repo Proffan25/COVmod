@@ -1,0 +1,613 @@
+#Bosnia Region (864000)
+#under the rule of Ottoman Empire in 1836
+#Sarajevo (148000/37000 POPS)
+783 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 578
+    }
+
+    bureaucrats = {
+        culture = bosniak
+        religion = sunni
+        size = 244
+    }
+
+    officers = {
+        culture = bosniak
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 1068
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 3560
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 30949
+    }
+
+    aristocrats = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    officers = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 222
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 1379
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 8010
+    }
+
+    aristocrats = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    officers = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    soldiers = {
+        culture = croat
+        religion = catholic
+        size = 178
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 422
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 2714
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = sephardic
+        religion = jewish
+        size = 89
+    }
+
+    officers = {
+        culture = sephardic
+        religion = jewish
+        size = 89
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 89
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 89
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 178
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 178
+    }
+    ########
+}
+#Bihac (100000/25000 POPS)
+784 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 356
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 667
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 14840
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 267
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 3137
+    }
+
+    soldiers = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 178
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 2358
+    }
+}
+#Banja Luka (116000/29000 POPS)
+785 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 445
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 712
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 4005
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 445
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 16287
+    }
+
+    soldiers = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 133
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 3270
+    }
+}
+#Tuzla (168000/42000 POPS)
+786 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 623
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 1023
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 17777
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 623
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 17021
+    }
+
+    soldiers = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 222
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 4160
+    }
+}
+#Foca (92000/23000 POPS)
+787 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 356
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 534
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 5273
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 445
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 13617
+    }
+}
+#Mostar (104000/26000 POPS)
+788 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 400
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 534
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 3471
+    }
+
+    soldiers = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 445
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 12793
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 178
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 5117
+    }
+}
+#Livno (136000/34000 POPS)
+789 = {
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 311
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 89
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 222
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 1068
+    }
+
+    soldiers = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 89
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 712
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 12460
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 89
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 534
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 14507
+    }
+
+}

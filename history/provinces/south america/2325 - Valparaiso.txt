@@ -1,0 +1,8 @@
+owner = CGC
+controller = CGC
+add_core = CGC
+add_core = CHL
+trade_goods = fruit
+terrain = farmlands
+life_rating = 35
+naval_base = 1

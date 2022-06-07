@@ -1,0 +1,7 @@
+owner = PBA
+controller = PBA
+add_core = PBA
+add_core = BAH
+trade_goods = cattle
+terrain = dryhills
+life_rating = 35

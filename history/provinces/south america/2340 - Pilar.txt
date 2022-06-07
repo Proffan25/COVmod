@@ -1,0 +1,7 @@
+owner = LFE
+controller = LFE
+add_core = LFE
+add_core = LPL
+add_core = PRG
+trade_goods = grain
+life_rating = 35

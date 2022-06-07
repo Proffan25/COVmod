@@ -1,0 +1,7 @@
+owner = PBA
+controller = PBA
+add_core = PBA
+add_core = BAH
+trade_goods = tobacco
+terrain = new_world_semidesert
+life_rating = 31

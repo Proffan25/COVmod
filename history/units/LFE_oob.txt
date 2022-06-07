@@ -1,0 +1,85 @@
+SPA = {
+    value = -200
+}
+
+PBA = {
+    value = -100
+}
+
+PRG = {
+    value = -200
+}
+
+LPL = {
+    value = -100
+}
+
+army = {
+    name = "Ejército de Corrientes"
+    location = 2356
+    regiment = {
+        name= "1. División de Infantería"
+        type = infantry
+        home = 2356
+    }
+}
+
+army = {
+    name = "Ejército de Entre Ríos"
+    location = 2360
+    regiment = {
+        name= "2. División de Infantería"
+        type = infantry
+        home = 2360
+    }
+}
+
+army = {
+    name = "Ejército Oriental"
+    location = 2345
+    regiment = {
+        name= "3. División de Infantería"
+        type = infantry
+        home = 2346
+    }
+
+    regiment = {
+        name= "1. División de Caballería"
+        type = cavalry
+        home = 2387
+    }
+}
+
+army = {
+    name = "Ejército de Santa Fe"
+    location = 2361
+    regiment = {
+        name= "4. División de Infantería"
+        type = infantry
+        home = 2361
+    }
+}
+
+leader = {
+   name = "José Gervasio Artigas"
+   type = land
+   date = 1815.1.1
+   background = nationalist
+   personality = inspiring
+}
+
+leader = {
+   name = "Estanislao López"
+   type = land
+   date = 1815.1.1
+   background = innovative_tactician
+   personality = relentless
+}
+
+leader = {
+   name = "Francisco Ramírez"
+   type = land
+   date = 1815.1.1
+   background = bureaucrat_speed
+   personality = arrogant
+}

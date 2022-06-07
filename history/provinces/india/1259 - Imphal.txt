@@ -1,0 +1,8 @@
+owner = BEP
+controller = BEP
+add_core = BEP
+add_core = HND
+add_core = ASM
+add_core = MNP
+trade_goods = cattle
+life_rating = 32

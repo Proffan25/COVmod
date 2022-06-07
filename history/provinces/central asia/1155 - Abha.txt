@@ -1,0 +1,8 @@
+owner = NEJ
+controller = NEJ
+add_core = NEJ
+add_core = HDJ
+add_core = TUR
+trade_goods = wool
+terrain = semidesert
+life_rating = 35

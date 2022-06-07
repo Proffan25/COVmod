@@ -1,0 +1,5 @@
+owner = VPE
+controller = VPE
+add_core = LPL
+trade_goods = fruit
+life_rating = 32

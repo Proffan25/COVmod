@@ -1,0 +1,185 @@
+#Guyana (99600)
+#Ruled by Britain 1836
+#Georgetown (58600/14650 POPS)
+2239 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 82
+    }
+
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 41
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 20
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 287
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 82
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 61
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 574
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 122
+    }
+
+    farmers = {
+        culture = slaves
+        religion = protestant
+        size = 10721
+    }
+}
+#Mahdia (4000/1000 POPS)
+2242 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 20
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 41
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 12
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 738
+    }
+}
+#Essequibo (33000/8250 POPS)
+2243 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 41
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 20
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 82
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 41
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 61
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 245
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 61
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 7011
+    }
+}
+#Biloka (4000/1000 POPS)
+1979 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 20
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 41
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 12
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 738
+    }
+
+}

@@ -1,0 +1,1234 @@
+#Lower Swahili Coast Region (560000)
+#ruled by kingdom of Oman in 1836
+#Dar es Salaam (220000/55000 POPS)
+2036 = {
+    aristocrats = {
+        culture = swahili
+        religion = sunni
+        size = 883
+    }
+
+    bureaucrats = {
+        culture = swahili
+        religion = sunni
+        size = 69
+    }
+
+    officers = {
+        culture = swahili
+        religion = sunni
+        size = 116
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = sunni
+        size = 488
+    }
+
+    artisans = {
+        culture = swahili
+        religion = sunni
+        size = 1860
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = sunni
+        size = 465
+    }
+
+    farmers = {
+        culture = swahili
+        religion = sunni
+        size = 43547
+    }
+
+    slaves = {
+        culture = kilombero
+        religion = animist
+        size = 13020
+    }
+
+    aristocrats = {
+        culture = sukuma
+        religion = sunni
+        size = 46
+    }
+
+    clergymen = {
+        culture = sukuma
+        religion = sunni
+        size = 46
+    }
+
+    artisans = {
+        culture = sukuma
+        religion = sunni
+        size = 186
+    }
+
+    soldiers = {
+        culture = sukuma
+        religion = sunni
+        size = 46
+    }
+
+    farmers = {
+        culture = sukuma
+        religion = sunni
+        size = 3394
+    }
+}
+#Tanga (88000/22000 POPS)
+2037 = {
+    aristocrats = {
+        culture = swahili
+        religion = sunni
+        size = 302
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = sunni
+        size = 162
+    }
+
+    artisans = {
+        culture = swahili
+        religion = sunni
+        size = 674
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = sunni
+        size = 162
+    }
+
+    farmers = {
+        culture = swahili
+        religion = sunni
+        size = 10788
+    }
+
+    slaves = {
+        culture = kilombero
+        religion = animist
+        size = 5580
+    }
+
+    aristocrats = {
+        culture = sukuma
+        religion = sunni
+        size = 46
+    }
+
+    clergymen = {
+        culture = sukuma
+        religion = sunni
+        size = 46
+    }
+
+    artisans = {
+        culture = sukuma
+        religion = sunni
+        size = 186
+    }
+
+    soldiers = {
+        culture = sukuma
+        religion = sunni
+        size = 46
+    }
+
+    farmers = {
+        culture = sukuma
+        religion = sunni
+        size = 2464
+    }
+}
+#Kilwa (188000/47000 POPS)
+2038 = {
+    aristocrats = {
+        culture = swahili
+        religion = sunni
+        size = 511
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = sunni
+        size = 255
+    }
+
+    artisans = {
+        culture = swahili
+        religion = sunni
+        size = 1046
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = sunni
+        size = 279
+    }
+
+    farmers = {
+        culture = swahili
+        religion = sunni
+        size = 34177
+    }
+
+    aristocrats = {
+        culture = yao
+        religion = animist
+        size = 325
+    }
+
+    clergymen = {
+        culture = yao
+        religion = animist
+        size = 186
+    }
+
+    artisans = {
+        culture = yao
+        religion = animist
+        size = 883
+    }
+
+    soldiers = {
+        culture = yao
+        religion = animist
+        size = 186
+    }
+
+    farmers = {
+        culture = yao
+        religion = animist
+        size = 16089
+    }
+
+    slaves = {
+        culture = yao
+        religion = animist
+        size = 9300
+    }
+}
+#Lindi (64000/16000 POPS)
+2039 = {
+    aristocrats = {
+        culture = swahili
+        religion = sunni
+        size = 93
+    }
+    aristocrats = {
+        culture = bedouin
+        religion = ibadi
+        size = 465
+    }
+
+    bureaucrats = {
+        culture = bedouin
+        religion = ibadi
+        size = 23
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = ibadi
+        size = 46
+    }
+
+    artisans = {
+        culture = swahili
+        religion = sunni
+        size = 604
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = sunni
+        size = 162
+    }
+
+    farmers = {
+        culture = swahili
+        religion = sunni
+        size = 9974
+    }
+
+    slaves = {
+        culture = yao
+        religion = animist
+        size = 3720
+    }
+}
+#Ruvuma-Rufiji Region (568000)
+#uncolonized in 1836
+#Songea (136000/34000 POPS)
+2040 = {
+    aristocrats = {
+        culture = yao
+        religion = sunni
+        size = 348
+    }
+
+    clergymen = {
+        culture = yao
+        religion = sunni
+        size = 186
+    }
+
+    artisans = {
+        culture = yao
+        religion = sunni
+        size = 744
+    }
+
+    soldiers = {
+        culture = yao
+        religion = sunni
+        size = 186
+    }
+
+    farmers = {
+        culture = yao
+        religion = sunni
+        size = 14345
+    }
+
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 209
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 116
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 558
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 116
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 10160
+    }
+
+    slaves = {
+        culture = nyasa
+        religion = animist
+        size = 2790
+    }
+
+    slaves = {
+        culture = chewa
+        religion = animist
+        size = 1860
+    }
+}
+#Masasi (132000/33000 POPS)
+2041 = {
+    aristocrats = {
+        culture = yao
+        religion = sunni
+        size = 441
+    }
+
+    clergymen = {
+        culture = yao
+        religion = sunni
+        size = 232
+    }
+
+    artisans = {
+        culture = yao
+        religion = sunni
+        size = 1023
+    }
+
+    soldiers = {
+        culture = yao
+        religion = sunni
+        size = 232
+    }
+
+    farmers = {
+        culture = yao
+        religion = sunni
+        size = 14066
+    }
+
+    aristocrats = {
+        culture = makua
+        religion = animist
+        size = 139
+    }
+
+    clergymen = {
+        culture = makua
+        religion = animist
+        size = 69
+    }
+
+    artisans = {
+        culture = makua
+        religion = animist
+        size = 372
+    }
+
+    soldiers = {
+        culture = makua
+        religion = animist
+        size = 69
+    }
+
+    farmers = {
+        culture = makua
+        religion = animist
+        size = 6765
+    }
+
+    slaves = {
+        culture = makua
+        religion = animist
+        size = 7440
+    }
+}
+#Iringa (300000/75000 POPS)
+2042 = {
+    aristocrats = {
+        culture = unyamwezi
+        religion = animist
+        size = 348
+    }
+
+    clergymen = {
+        culture = unyamwezi
+        religion = animist
+        size = 186
+    }
+
+    artisans = {
+        culture = unyamwezi
+        religion = animist
+        size = 744
+    }
+
+    soldiers = {
+        culture = unyamwezi
+        religion = animist
+        size = 186
+    }
+
+    farmers = {
+        culture = unyamwezi
+        religion = animist
+        size = 12299
+    }
+
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 418
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 209
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 1069
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 209
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 19483
+    }
+
+    slaves = {
+        culture = nyasa
+        religion = animist
+        size = 12090
+    }
+
+    aristocrats = {
+        culture = nyasa
+        religion = sunni
+        size = 93
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = sunni
+        size = 93
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = sunni
+        size = 186
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = sunni
+        size = 93
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = sunni
+        size = 3394
+    }
+
+    aristocrats = {
+        culture = yao
+        religion = animist
+        size = 488
+    }
+
+    clergymen = {
+        culture = yao
+        religion = animist
+        size = 255
+    }
+
+    artisans = {
+        culture = yao
+        religion = animist
+        size = 1023
+    }
+
+    soldiers = {
+        culture = yao
+        religion = animist
+        size = 255
+    }
+
+    farmers = {
+        culture = yao
+        religion = animist
+        size = 16577
+    }
+}
+#Tanganyikia Region (1276000)
+#uncolonized in 1836/dominated by the Unyamwezi
+#Tabora (260000/65000 POPS)
+2043 = {
+    aristocrats = {
+        culture = unyamwezi
+        religion = animist
+        size = 999
+    }
+
+    clergymen = {
+        culture = unyamwezi
+        religion = animist
+        size = 511
+    }
+
+    artisans = {
+        culture = unyamwezi
+        religion = animist
+        size = 2046
+    }
+
+    soldiers = {
+        culture = unyamwezi
+        religion = animist
+        size = 511
+    }
+
+    farmers = {
+        culture = unyamwezi
+        religion = animist
+        size = 34991
+    }
+
+    aristocrats = {
+        culture = kilombero
+        religion = animist
+        size = 139
+    }
+
+    clergymen = {
+        culture = kilombero
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = kilombero
+        religion = animist
+        size = 325
+    }
+
+    soldiers = {
+        culture = kilombero
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = kilombero
+        religion = animist
+        size = 5882
+    }
+
+    slaves = {
+        culture = kilombero
+        religion = animist
+        size = 6510
+    }
+
+    aristocrats = {
+        culture = sukuma
+        religion = animist
+        size = 93
+    }
+
+    clergymen = {
+        culture = sukuma
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = sukuma
+        religion = animist
+        size = 139
+    }
+
+    soldiers = {
+        culture = sukuma
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = sukuma
+        religion = animist
+        size = 2511
+    }
+
+    slaves = {
+        culture = sukuma
+        religion = animist
+        size = 5580
+    }
+}
+#Mwanza (368000/92000 POPS)
+2044 = {
+    aristocrats = {
+        culture = luo
+        religion = animist
+        size = 441
+    }
+
+    clergymen = {
+        culture = luo
+        religion = animist
+        size = 232
+    }
+
+    artisans = {
+        culture = luo
+        religion = animist
+        size = 1023
+    }
+
+    soldiers = {
+        culture = luo
+        religion = animist
+        size = 232
+    }
+
+    farmers = {
+        culture = luo
+        religion = animist
+        size = 8393
+    }
+
+    aristocrats = {
+        culture = unyamwezi
+        religion = animist
+        size = 255
+    }
+
+    clergymen = {
+        culture = unyamwezi
+        religion = animist
+        size = 139
+    }
+
+    artisans = {
+        culture = unyamwezi
+        religion = animist
+        size = 558
+    }
+
+    soldiers = {
+        culture = unyamwezi
+        religion = animist
+        size = 139
+    }
+
+    farmers = {
+        culture = unyamwezi
+        religion = animist
+        size = 3557
+    }
+
+    slaves = {
+        culture = lacustrine_bantu
+        religion = animist
+        size = 22320
+    }
+
+    aristocrats = {
+        culture = sukuma
+        religion = animist
+        size = 860
+    }
+
+    clergymen = {
+        culture = sukuma
+        religion = animist
+        size = 441
+    }
+
+    artisans = {
+        culture = sukuma
+        religion = animist
+        size = 2185
+    }
+
+    soldiers = {
+        culture = sukuma
+        religion = animist
+        size = 441
+    }
+
+    farmers = {
+        culture = sukuma
+        religion = animist
+        size = 39780
+    }
+
+    aristocrats = {
+        culture = ruanda
+        religion = animist
+        size = 46
+    }
+
+    clergymen = {
+        culture = ruanda
+        religion = animist
+        size = 69
+    }
+
+    artisans = {
+        culture = ruanda
+        religion = animist
+        size = 139
+    }
+
+    soldiers = {
+        culture = ruanda
+        religion = animist
+        size = 23
+    }
+
+    farmers = {
+        culture = ruanda
+        religion = animist
+        size = 2511
+    }
+
+    aristocrats = {
+        culture = ruanda
+        religion = animist
+        size = 46
+    }
+
+    clergymen = {
+        culture = ruanda
+        religion = animist
+        size = 69
+    }
+
+    artisans = {
+        culture = ruanda
+        religion = animist
+        size = 139
+    }
+
+    soldiers = {
+        culture = ruanda
+        religion = animist
+        size = 23
+    }
+
+    farmers = {
+        culture = ruanda
+        religion = animist
+        size = 2511
+    }
+}
+#Morogoro (232000/58000 POPS)
+2045 = {
+    aristocrats = {
+        culture = unyamwezi
+        religion = animist
+        size = 627
+    }
+
+    clergymen = {
+        culture = unyamwezi
+        religion = animist
+        size = 325
+    }
+
+    artisans = {
+        culture = unyamwezi
+        religion = animist
+        size = 1302
+    }
+
+    soldiers = {
+        culture = unyamwezi
+        religion = animist
+        size = 325
+    }
+
+    farmers = {
+        culture = unyamwezi
+        religion = animist
+        size = 18809
+    }
+
+    aristocrats = {
+        culture = swahili
+        religion = sunni
+        size = 93
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = sunni
+        size = 46
+    }
+
+    artisans = {
+        culture = swahili
+        religion = sunni
+        size = 232
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = sunni
+        size = 69
+    }
+
+    farmers = {
+        culture = swahili
+        religion = sunni
+        size = 3278
+    }
+
+    aristocrats = {
+        culture = kilombero
+        religion = animist
+        size = 255
+    }
+
+    clergymen = {
+        culture = kilombero
+        religion = animist
+        size = 139
+    }
+
+    artisans = {
+        culture = kilombero
+        religion = animist
+        size = 651
+    }
+
+    soldiers = {
+        culture = kilombero
+        religion = animist
+        size = 139
+    }
+
+    farmers = {
+        culture = kilombero
+        religion = animist
+        size = 11927
+    }
+
+    slaves = {
+        culture = kilombero
+        religion = animist
+        size = 13020
+    }
+
+    aristocrats = {
+        culture = sukuma
+        religion = animist
+        size = 46
+    }
+
+    clergymen = {
+        culture = sukuma
+        religion = animist
+        size = 69
+    }
+
+    artisans = {
+        culture = sukuma
+        religion = animist
+        size = 139
+    }
+
+    soldiers = {
+        culture = sukuma
+        religion = animist
+        size = 23
+    }
+
+    farmers = {
+        culture = sukuma
+        religion = animist
+        size = 2511
+    }
+}
+#Ujiji (336000/84000 POPS)
+2046 = {
+    aristocrats = {
+        culture = unyamwezi
+        religion = animist
+        size = 999
+    }
+
+    clergymen = {
+        culture = unyamwezi
+        religion = animist
+        size = 511
+    }
+
+    artisans = {
+        culture = unyamwezi
+        religion = animist
+        size = 2046
+    }
+
+    soldiers = {
+        culture = unyamwezi
+        religion = animist
+        size = 511
+    }
+
+    farmers = {
+        culture = unyamwezi
+        religion = animist
+        size = 29225
+    }
+
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 441
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 232
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 1162
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 232
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 21180
+    }
+
+    slaves = {
+        culture = nyasa
+        religion = animist
+        size = 11160
+    }
+
+    aristocrats = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 46
+    }
+
+    clergymen = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 46
+    }
+
+    artisans = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 186
+    }
+
+    soldiers = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = south_forest_bantu
+        religion = animist
+        size = 3394
+    }
+}
+#Arusha (80000/20000 POPS)
+2047 = {
+    aristocrats = {
+        culture = sukuma
+        religion = animist
+        size = 93
+    }
+
+    clergymen = {
+        culture = sukuma
+        religion = animist
+        size = 46
+    }
+
+    artisans = {
+        culture = sukuma
+        religion = animist
+        size = 279
+    }
+
+    soldiers = {
+        culture = sukuma
+        religion = animist
+        size = 69
+    }
+
+    farmers = {
+        culture = sukuma
+        religion = animist
+        size = 5091
+    }
+
+    aristocrats = {
+        culture = maasai
+        religion = animist
+        size = 116
+    }
+
+    clergymen = {
+        culture = maasai
+        religion = animist
+        size = 69
+    }
+
+    artisans = {
+        culture = maasai
+        religion = animist
+        size = 372
+    }
+
+    soldiers = {
+        culture = maasai
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = maasai
+        religion = animist
+        size = 6765
+    }
+
+    aristocrats = {
+        culture = kilombero
+        religion = animist
+        size = 93
+    }
+
+    clergymen = {
+        culture = kilombero
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = kilombero
+        religion = animist
+        size = 279
+    }
+
+    soldiers = {
+        culture = kilombero
+        religion = animist
+        size = 69
+    }
+
+    farmers = {
+        culture = kilombero
+        religion = animist
+        size = 5091
+    }
+
+    slaves = {
+        culture = cushitic
+        religion = sunni
+        size = 1860
+    }
+}
+#Zanzibar Region (156000)
+#ruled by Oman in 1836
+#Zanzibar (156000/39000 POPS)
+2048 = {
+    aristocrats = {
+        culture = swahili
+        religion = sunni
+        size = 232
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = sunni
+        size = 116
+    }
+
+    artisans = {
+        culture = swahili
+        religion = sunni
+        size = 488
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = sunni
+        size = 1023
+    }
+
+    farmers = {
+        culture = swahili
+        religion = sunni
+        size = 6603
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = ibadi
+        size = 139
+    }
+
+    bureaucrats = {
+        culture = bedouin
+        religion = ibadi
+        size = 69
+    }
+
+    officers = {
+        culture = bedouin
+        religion = ibadi
+        size = 69
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = ibadi
+        size = 46
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = ibadi
+        size = 186
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = ibadi
+        size = 418
+    }
+
+    aristocrats = {
+        culture = kilombero
+        religion = sunni
+        size = 372
+    }
+
+    clergymen = {
+        culture = kilombero
+        religion = sunni
+        size = 186
+    }
+
+    artisans = {
+        culture = kilombero
+        religion = sunni
+        size = 976
+    }
+
+    soldiers = {
+        culture = kilombero
+        religion = sunni
+        size = 209
+    }
+
+    farmers = {
+        culture = kilombero
+        religion = sunni
+        size = 17786
+    }
+
+    slaves = {
+        culture = kilombero
+        religion = animist
+        size = 7440
+    }
+
+}

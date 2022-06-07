@@ -1,0 +1,6 @@
+owner = VPE
+controller = VPE
+add_core = VPE
+trade_goods = fish
+terrain = dryhills
+life_rating = 35

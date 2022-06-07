@@ -1,0 +1,6 @@
+owner = PBA
+controller = PBA
+add_core = PBA
+trade_goods = fruit
+terrain = jungle
+life_rating = 31

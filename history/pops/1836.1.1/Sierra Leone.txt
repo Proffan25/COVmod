@@ -1,0 +1,313 @@
+#Sierra Leone Region (752000)
+#uncolonized in 1836/Britain has trade post in 1836
+#Freetown (400000/100000 POPS)
+1884 = {
+
+    aristocrats = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 279
+    }
+
+    officers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 93
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 93
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 232
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 93
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 4371
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 627
+    }
+
+    officers = {
+        culture = mande
+        religion = sunni
+        size = 93
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 93
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 1534
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 325
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 29876
+    }
+
+    aristocrats = {
+        culture = western_nigritic
+        religion = sunni
+        size = 813
+    }
+
+    officers = {
+        culture = western_nigritic
+        religion = sunni
+        size = 93
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = sunni
+        size = 93
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = sunni
+        size = 2139
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = sunni
+        size = 418
+    }
+
+    farmers = {
+        culture = western_nigritic
+        religion = sunni
+        size = 44895
+    }
+
+    aristocrats = {
+        culture = western_nigritic
+        religion = animist
+        size = 232
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = animist
+        size = 651
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = animist
+        size = 139
+    }
+
+    farmers = {
+        culture = western_nigritic
+        religion = animist
+        size = 6324
+    }
+}
+#uncolonized in 1836
+#Bo (352000/88000 POPS)
+1886 = {
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 837
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 93
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 1743
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 441
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 34084
+    }
+
+    aristocrats = {
+        culture = western_nigritic
+        religion = animist
+        size = 744
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = animist
+        size = 1860
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = animist
+        size = 395
+    }
+
+    farmers = {
+        culture = western_nigritic
+        religion = animist
+        size = 35037
+    }
+
+    slaves = {
+        culture = western_nigritic
+        religion = animist
+        size = 6510
+    }
+}
+#Jallon Region (384000) #see Guinea.txt for balance of Region
+#uncolonized in 1836
+#Falaba (384000/96000 POPS) #now part of Sierra Leone
+1885 = {
+    aristocrats = {
+        culture = mande
+        religion = sunni
+        size = 860
+    }
+
+    clergymen = {
+        culture = mande
+        religion = sunni
+        size = 93
+    }
+
+    artisans = {
+        culture = mande
+        religion = sunni
+        size = 1767
+    }
+
+    soldiers = {
+        culture = mande
+        religion = sunni
+        size = 441
+    }
+
+    farmers = {
+        culture = mande
+        religion = sunni
+        size = 34038
+    }
+
+    aristocrats = {
+        culture = western_nigritic
+        religion = sunni
+        size = 744
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = sunni
+        size = 93
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = sunni
+        size = 1534
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = sunni
+        size = 395
+    }
+
+    farmers = {
+        culture = western_nigritic
+        religion = sunni
+        size = 34433
+    }
+
+    aristocrats = {
+        culture = western_nigritic
+        religion = animist
+        size = 116
+    }
+
+    clergymen = {
+        culture = western_nigritic
+        religion = animist
+        size = 93
+    }
+
+    artisans = {
+        culture = western_nigritic
+        religion = animist
+        size = 372
+    }
+
+    soldiers = {
+        culture = western_nigritic
+        religion = animist
+        size = 93
+    }
+
+    farmers = {
+        culture = western_nigritic
+        religion = animist
+        size = 2139
+    }
+
+    slaves = {
+        culture = western_nigritic
+        religion = animist
+        size = 12090
+    }
+
+}

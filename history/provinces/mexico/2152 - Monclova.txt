@@ -1,0 +1,7 @@
+owner = VNS
+controller = VNS
+terrain = new_world_semidesert
+add_core = VNS
+add_core = RGR
+trade_goods = dye
+life_rating = 32

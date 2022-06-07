@@ -1,0 +1,794 @@
+#La Paz Region (784000)
+#Ruled by Bolivia 1836
+#La Paz (392000/98000 POPS)
+2310 = {
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 656
+    }
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 245
+    }
+
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 82
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 245
+    }
+
+    officers = {
+        culture = spanish
+        religion = catholic
+        size = 266
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 533
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 4100
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 676
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 820
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 1722
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 15579
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = catholic
+        size = 245
+    }
+
+    artisans = {
+        culture = aimara
+        religion = catholic
+        size = 2070
+    }
+
+    farmers = {
+        culture = aimara
+        religion = catholic
+        size = 52623
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 20
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 122
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 2275
+    }
+}
+#Cochabamba (352000/88000 POPS)
+2311 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 1394
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 451
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 943
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 1722
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 15252
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 245
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 2665
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 50430
+    }
+}
+#Oruro (40000/10000 POPS)
+2312 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 184
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 122
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 2070
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = catholic
+        size = 61
+    }
+
+    artisans = {
+        culture = aimara
+        religion = catholic
+        size = 287
+    }
+
+    farmers = {
+        culture = aimara
+        religion = catholic
+        size = 5391
+    }
+}
+#Chuquisaca Region (288000)
+#Ruled by Bolivia 1836
+#Chuquisaca (116000/29000 POPS)
+2313 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 491
+    }
+
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 61
+    }
+
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 61
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 143
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 205
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 861
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 3136
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 102
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 983
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 861
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 19126
+    }
+}
+#Potosi (120000/30000 POPS)
+2314 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 512
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 122
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 122
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    labourers = {
+        culture = south_andean
+        religion = catholic
+        size = 1681
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = catholic
+        size = 102
+    }
+
+    artisans = {
+        culture = aimara
+        religion = catholic
+        size = 1107
+    }
+
+    labourers = {
+        culture = aimara
+        religion = catholic
+        size = 20930
+    }
+}
+#Tarija (52000/13000 POPS)
+2315 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 225
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 61
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 471
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 491
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 2102
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 7204
+    }
+}
+#Santa Cruz Region (48000)
+#Ruled by Bolivia 1836
+#Santa Cruz (16000/4000 POPS)
+2316 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 82
+    }
+
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 4
+    }
+
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 8
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 61
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 602
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 20
+    }
+
+    artisans = {
+        culture = guarani
+        religion = animist
+        size = 122
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 41
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2275
+    }
+}
+#San Ignacio (20000/5000 POPS)
+2317 = {
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 738
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 41
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 82
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1476
+    }
+
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 41
+    }
+
+    artisans = {
+        culture = guarani
+        religion = animist
+        size = 82
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 1476
+    }
+}
+#Robore (12000/3000 POPS)
+2318 = {
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 61
+    }
+
+    artisans = {
+        culture = guarani
+        religion = animist
+        size = 122
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2214
+    }
+}
+#Beni Region (116000) #see Brazil.txt for balance of region
+#Ruled by Bolivia 1836
+#Santa Ana (76000/19000 POPS)
+2319 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 61
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 122
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 1967
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 410
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 82
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 7666
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 82
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 41
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 245
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 61
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 4489
+    }
+}
+#Riberalta (12000/3000 POPS)
+2320 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 61
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 122
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2214
+    }
+}
+#Cobija (28000/7000 POPS)
+2321 = {
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 82
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 635
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 20
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 122
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 2275
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 61
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 122
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2214
+    }
+
+}

@@ -1,0 +1,1967 @@
+#Buenos Aires Region (272000)
+#Under rule of Argentina 1836
+#Buenos Aires (132000/33000 POPS)
+2348 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 1086
+    }
+	
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 245
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 369
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 41
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 307
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 12300
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 4920
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 86776
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 2460
+    }
+}
+#Junin (56000/14000 POPS)
+2349 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 225
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 143
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 4182
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 3280
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 20951
+    }
+}
+#Azul (12000/3000 POPS)
+2350 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 12874
+    }
+}
+#La Plata (4000/1000 POPS)
+2351 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 12
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 15579
+    }
+}
+#Mar del Plata (12000/3000 POPS)
+2352 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 16974
+    }
+}
+#Under loose authority of Argentina 1836
+#Trenque Lanquen (12000/9000 POPS)
+2353 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 1476
+    }
+}
+#Bahia Blanca (24000/6000 POPS)
+2354 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 2234
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2214
+    }
+}
+#Carmen (20000/5000 POPS)
+2355 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1537
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 4674
+    }
+}
+#Corrientes Region (164000)
+#Under rule of Argentina 1836
+#Corrientes (96000/24000 POPS)
+2356 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 369
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 656
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 28
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 184
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 2460
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 2460
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 36912
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 61
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 18655
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 4100
+    }
+}
+#Curuzu Cuatia (16000/4000 POPS)
+2357 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 2050
+    }
+
+    clergymen = {
+        culture = brazilian
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = brazilian
+        religion = catholic
+        size = 1496
+    }
+}
+#Santo Tomas (28000/7000 POPS)
+2358 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1537
+    }
+
+    clergymen = {
+        culture = brazilian
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = brazilian
+        religion = catholic
+        size = 1496
+    }
+
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 61
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2214
+    }
+}
+#Colon (8000/2000 POPS)
+2359 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1558
+    }
+}
+#Parana (16000/4000 POPS)
+2360 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1640
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 410
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = animist
+        size = 410
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 410
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 30196
+    }
+}
+#Santa Fe Region (72000)
+#Under rule of Argentina 1836
+#Santa Esperitu (8000/2000 POPS)
+2361 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 410
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 8856
+    }
+}
+#Reconquista (56000/14000 POPS)
+2362 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 245
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 16
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 143
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 3280
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 122
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 11767
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 2460
+    }
+}
+#Rosario (8000/2000 POPS)
+2363 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1476
+    }
+
+}
+#Chaco Region (76000) #see Paraguay.txt for balance of region
+#Under loose authority of Argentina 1836
+#Resistencia (16000/4000 POPS)
+2364 = {
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 61
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2214
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 1
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 18
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 983
+    }
+}
+#Villa Angela (16000/4000 POPS)
+2365 = {
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 61
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2214
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+}
+#Under loose authority of Paraguay 1836
+#Formosa (24000/6000 POPS) #now part of Argentina
+2366 = {
+    aristocrats = {
+        culture = guarani
+        religion = catholic
+        size = 61
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = catholic
+        size = 61
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = catholic
+        size = 410
+    }
+
+    labourers = {
+        culture = guarani
+        religion = animist
+        size = 1886
+    }
+
+    labourers = {
+        culture = guarani
+        religion = catholic
+        size = 881
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 1
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 18
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    labourers = {
+        culture = platinean
+        religion = catholic
+        size = 410
+    }
+
+    slaves = {
+        culture = guarani
+        religion = animist
+        size = 656
+    }
+}
+#Xolotas (20000/5000 POPS) #now part of Argentina
+2367 = {
+    aristocrats = {
+        culture = guarani
+        religion = catholic
+        size = 61
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = catholic
+        size = 61
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = catholic
+        size = 451
+    }
+
+    labourers = {
+        culture = guarani
+        religion = animist
+        size = 3341
+    }
+}
+#Salta Region (36000)
+#Under rule of Argentina 1836
+#Santa Rosa - Former Bechar (20000/5000 POPS)
+1714 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 4
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 12
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 49
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 245
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 164
+    }
+}
+
+#Salta (16000/4000 POPS)
+2368 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 12
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 820
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 441
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 912
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 410
+    }
+}
+#Jujuy (8000/2000 POPS)
+2369 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 902
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+}
+#Cochinoca (4000/1000 POPS)
+2370 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 12
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+}
+#Equia (4000/1000 POPS)
+2371 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 12
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+}
+#Rivadavia (4000/1000 POPS)
+2372 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 12
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+}
+#Tucuman Region (36000)
+#Under rule of Argentina 1836
+#Tucuman (20000/5000 POPS)
+2373 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 82
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 12
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 82
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 1230
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 3464
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1640
+    }
+}
+#Catamarca (12000/3000 POPS)
+2374 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1020
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 640
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 820
+    }
+}
+#Vinchina (4000/1000 POPS)
+2375 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 12
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 308
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 438
+    }
+}
+#Santiago del Estero Region (40000)
+#Under rule of Argentina 1836
+#Santiago del Estero (16000/4000 POPS)
+2376 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 2464
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 410
+    }
+}
+#Anatuya (16000/4000 POPS)
+2377 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 61
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2214
+    }
+}
+#Mailin (8000/2000 POPS)
+2378 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1476
+    }
+}
+#Cordoba Region (136000)
+#Under rule of Argentina 1836
+#Cordoba de Argentina (84000/21000 POPS)
+2379 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 348
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 32
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 410
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 164
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 820
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 4100
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 62565
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 5740
+    }
+}
+#Villa Nueva (8000/2000 POPS)
+2380 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 102
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1476
+    }
+}
+#Rio Cuarto (8000/2000 POPS)
+2381 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 102
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1476
+    }
+}
+#San Luis (8000/2000 POPS)
+2383 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 102
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1476
+    }
+}
+#Under the loose rule of Argentina 1836
+#Renanco (20000/5000 POPS)
+2382 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 102
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1496
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 143
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2214
+    }
+}
+#Mercedes (8000/2000 POPS)
+2384 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 102
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 4
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 738
+    }
+}
+#La Rioja Region (40000)
+#Under rule of Argentina 1836
+#La Rioja (16000/4000 POPS)
+2385 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 12
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 205
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 2460
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 574
+    }
+}
+#Santa Rita (8000/2000 POPS)
+2386 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 102
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1476
+    }
+}
+#San Juan de la Frontera (12000/3000 POPS)
+2387 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 701
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1000
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 410
+    }
+}
+#Calingasta (4000/1000 POPS)
+2388 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 12
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 49
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+}
+#Mendoza Region (32000)
+#Under rule of Argentina 1836
+#Mendoza (12000/3000 POPS)
+2389 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 4
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 8
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 164
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1689
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 410
+    }
+}
+#San Rafael (8000/2000 POPS)
+2390 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 102
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1476
+    }
+}
+#Under the loose rule of Argentina 1836
+#Neuquen (12000/3000 POPS)
+2391 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 102
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 1476
+    }
+}
+#Rio Negro-La Pampa Region (52000)
+#Under the loose rule of Argentina 1836
+#Viedma (12000/3000 POPS)
+2392 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 143
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2214
+    }
+}
+#Telen (12000/3000 POPS)
+2393 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 143
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2214
+    }
+}
+#Bariloche (16000/4000 POPS)
+2394 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 205
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 3013
+    }
+}
+#Curaco (12000/3000 POPS)
+2395 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 61
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 143
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2214
+    }
+}
+#Patagonia Region (20000)
+#Under the loose rule of Argentina 1836
+#Rawson (4000/1000 POPS)
+2396 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 53
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 738
+    }
+}
+#Esquel (4000/1000 POPS)
+2397 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 53
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 738
+    }
+}
+#Puerto Deseado (4000/1000 POPS)
+2398 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 53
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 738
+    }
+}
+#Rio Gallegos (4000/1000 POPS)
+2399 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 53
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 738
+    }
+}
+#Rio Grande (4000/1000 POPS)
+2400 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 53
+    }
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 738
+    }
+}
+#Paraguay Region (16000) #see Paraguay.txt & Brazil.txt for balance of region
+#Under loose authority of Paraguay 1836
+#Posadas (16000/4000 POPS) #now part of Argentina
+2554 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 61
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 738
+    }
+
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 41
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 61
+    }
+
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 143
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2214
+    }
+
+}

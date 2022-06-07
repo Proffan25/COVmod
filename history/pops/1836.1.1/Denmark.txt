@@ -1,0 +1,444 @@
+#Faroe Islands Region (7000)
+#Torshavn (7000/1750 POPS)
+253 = {
+    bureaucrats = {
+        culture = icelandic
+        religion = protestant
+        size = 13
+    }
+
+    clergymen = {
+        culture = icelandic
+        religion = protestant
+        size = 66
+    }
+
+    artisans = {
+        culture = icelandic
+        religion = protestant
+        size = 120
+    }
+
+    farmers = {
+        culture = icelandic
+        religion = protestant
+        size = 1401
+    }
+
+}
+#Jutland Region : 548000
+#Aarhus (248000/62000 POPS)
+366 = {
+    aristocrats = {
+        culture = danish
+        religion = protestant
+        size = 445
+    }
+
+    bureaucrats = {
+        culture = danish
+        religion = protestant
+        size = 311
+    }
+
+    officers = {
+        culture = danish
+        religion = protestant
+        size = 178
+    }
+
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 333
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 8900
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 2225
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 42786
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 201
+    }
+}
+#Alborg (152000/38000 POPS)
+#5k farmers moved to 2557
+367 = {
+    aristocrats = {
+        culture = danish
+        religion = protestant
+        size = 222
+    }
+
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 222
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 6230
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 979
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 12905
+    }
+}
+#Ribe (148000/37000 POPS)
+#1k moved to 2557
+#10k moved to 2557
+368 = {
+    aristocrats = {
+        culture = danish
+        religion = protestant
+        size = 222
+    }
+
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 222
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 979
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 979
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 20826
+    }
+
+}
+
+# Esbjerg (Pops moved from Aalborg)
+2557 = {
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 979
+    }
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 111
+    }
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 979
+    }
+    aristocrats = {
+        culture = danish
+        religion = protestant
+        size = 222
+    }
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 20959
+    }
+}
+
+
+#Schleswig Region : 336000
+#Flensburg (236000/59000 POPS)
+370 = {
+    bureaucrats = {
+        culture = danish
+        religion = protestant
+        size = 89
+    }
+
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 111
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 4895
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 222
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 8922
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 578
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 89
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 133
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 222
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 2225
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 445
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 34576
+    }
+}
+#Aabenra (100000/25000 POPS)
+371 = {
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 111
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 979
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 222
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 14796
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 89
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 44
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 222
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 44
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 5829
+    }
+
+}
+#Archipelago Region : 616000
+#Copenhagen (392000/98000 POPS)
+372 = {
+    aristocrats = {
+        culture = danish
+        religion = protestant
+        size = 1379
+    }
+
+    bureaucrats = {
+        culture = danish
+        religion = protestant
+        size = 445
+    }
+
+    officers = {
+        culture = danish
+        religion = protestant
+        size = 445
+    }
+
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 667
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 5340
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 5340
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 5340
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 890
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 890
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 56960
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 763
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 979
+    }
+}
+#Odense (208000/52000 POPS)
+373 = {
+    aristocrats = {
+        culture = danish
+        religion = protestant
+        size = 445
+    }
+
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 222
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 2670
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 1780
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 41162
+    }
+}
+#Bornholm (16000/4000 POPS)
+374 = {
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 44
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 356
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 44
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 3115
+    }
+
+}

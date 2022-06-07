@@ -1,0 +1,7 @@
+owner = MPR
+controller = MPR
+add_core = MPR
+add_core = ORI
+add_core = HND
+trade_goods = grain
+life_rating = 32
