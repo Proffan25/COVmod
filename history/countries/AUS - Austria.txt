@@ -4,11 +4,11 @@ religion = catholic
 government = absolute_monarchy
 plurality = 10.0
 nationalvalue = nv_autocracy
-literacy = 0.45
+literacy = 0.35
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 100
+prestige = 120
 
 # Political reforms
 slavery = no_slavery

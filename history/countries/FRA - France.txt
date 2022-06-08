@@ -6,12 +6,12 @@ religion = catholic
 government = prussian_constitutionalism
 plurality = 25
 nationalvalue = nv_liberty
-literacy = 0.50
+literacy = 0.35
 non_state_culture_literacy = 0.01
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 50
+prestige = 90
 
 # Political reforms
 slavery = yes_slavery
@@ -93,8 +93,8 @@ upper_house = {
 }
 
 govt_flag = {
-    government = prussian_constitutionalism
-    flag = prussian_constitutionalism
+    government = hms_government
+    flag = presidential_dictatorship
 }
 
 schools = culture_tech_school

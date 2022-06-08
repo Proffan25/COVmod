@@ -4,7 +4,7 @@ religion = catholic
 government = absolute_monarchy
 plurality = 5
 nationalvalue = nv_autocracy
-literacy = 0.5
+literacy = 0.4
 civilized = yes
 prestige = 3
 

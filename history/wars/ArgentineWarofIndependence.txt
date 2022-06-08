@@ -18,11 +18,6 @@ name = "Argentine War of Independence"
         receiver = SPA
     }
     war_goal = {
-        casus_belli = acquire_all_cores
-        actor = LPL
-        receiver = VPE
-    }
-    war_goal = {
         casus_belli = make_puppet
         actor = SPA
         receiver = LPL

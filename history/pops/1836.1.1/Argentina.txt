@@ -29,7 +29,7 @@
     officers = {
         culture = platinean
         religion = catholic
-        size = 61
+        size = 161
     }
 
     clergymen = {
@@ -41,19 +41,19 @@
     artisans = {
         culture = platinean
         religion = catholic
-        size = 12300
+        size = 12200
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 4920
+        size = 10920
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 86776
+        size = 80776
     }
 
     slaves = {
@@ -85,13 +85,13 @@
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 3280
+        size = 6280
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 20951
+        size = 17951
     }
 }
 #Azul (12000/3000 POPS)

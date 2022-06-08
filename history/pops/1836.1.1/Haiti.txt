@@ -29,13 +29,13 @@
     soldiers = {
         culture = afro_antillean
         religion = catholic
-        size = 78
+        size = 6278
     }
 
     farmers = {
         culture = afro_antillean
         religion = catholic
-        size = 53274
+        size = 47074
     }
 }
 #Cap Haitien (204000/51000 POPS)
@@ -61,13 +61,13 @@
     soldiers = {
         culture = afro_antillean
         religion = catholic
-        size = 156
+        size = 7156
     }
 
     farmers = {
         culture = afro_antillean
         religion = catholic
-        size = 36523
+        size = 29523
     }
 
 }
