@@ -103,3 +103,20 @@ theocracy = {
     election = no
     appoint_ruling_party = yes
 }
+
+viceroyalty = {
+    conservative = yes
+    reactionary = yes
+
+
+    election = no
+    appoint_ruling_party = no
+}
+
+private_company = {
+    conservative = yes
+
+
+    election = no
+    appoint_ruling_party = no
+}

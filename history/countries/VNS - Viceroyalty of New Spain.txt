@@ -1,7 +1,7 @@
 capital = 2172
 primary_culture = spanish
 religion = catholic
-government = absolute_monarchy
+government = viceroyalty
 plurality = 25.0
 nationalvalue = nv_autocracy
 literacy = 0.04

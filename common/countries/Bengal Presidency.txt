@@ -2,11 +2,11 @@ color = { 207 20 43 }
 graphical_culture = Generic
 
 party = {
-    name = "BEP_reactionary"
+    name = "BEP_conservative"
     start_date = 1815.1.1
     end_date = 2000.1.1
 
-    ideology = reactionary
+    ideology = conservative
 
     social_policy = colonial_spending_policy
     economic_policy = state_capitalism

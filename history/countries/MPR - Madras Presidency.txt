@@ -1,9 +1,9 @@
 capital = 1304
 primary_culture = british
 religion = protestant
-government = presidential_dictatorship
+government = private_company
 plurality = 0.0
-nationalvalue = nv_autocracy
+nationalvalue = nv_productivity
 literacy = 0.01
 non_state_culture_literacy = 0.01
 
@@ -32,16 +32,21 @@ debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
-border_policy = open_borders
+border_policy = closed_borders
+
+foreign_weapons = yes_foreign_weapons
+army_schools = yes_army_schools
+land_reform = yes_land_reform
+finance_reform = finance_reform_two
 
 set_country_flag = protestant_country
 
-ruling_party = BEP_reactionary
+ruling_party = BEP_conservative
 upper_house = {
     fascist = 0
     liberal = 0
-    conservative = 0
-    reactionary = 100
+    conservative = 100
+    reactionary = 0
     anarcho_liberal = 0
     socialist = 0
     communist = 0
