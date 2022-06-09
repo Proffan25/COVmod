@@ -137,6 +137,18 @@ ARG_conservative_0;Partido Carlotista;Partido Carlotista;Partido Carlotista;;Par
 LFE_conservative;Partido Federal;Partido Federal;Partido Federal;;Partido Federal;;;;;;;;;x;;;;
 VPE_reactionary;Realistas;Realistas;Realistas;;Realistas;;;;;;;;;x;;;;
 BEP_conservative;East India Company;East India Company;East India Company;;East India Company;;;;;;;;;x;;;;
+ENG_conservative;Tories;Tories;Tories;;Tories;;;;;;;;;x;;;;
+ENG_conservative_2;Whigs;Whigs;Whigs;;Whigs;;;;;;;;;x;;;;
+ENG_conservative_3;Conservative Party;Conservative Party;Conservative Party;;Conservative Party;;;;;;;;;x;;;;
+ENG_conservative_4;Peelites;Peelites;Peelites;;Peelites;;;;;;;;;x;;;;
+ENG_liberal;Radicals;Radicals;Radicals;;Radicals;;;;;;;;;x;;;;
+ENG_liberal_2;Whigs;Whigs;Whigs;;Whigs;;;;;;;;;x;;;;
+ENG_liberal_3;Liberal Party;Liberal Party;Liberal Party;;Liberal Party;;;;;;;;;x;;;;
+ENG_socialist;Liberal-Labour;Liberal-Labour;Liberal-Labour;;Liberal-Labour;;;;;;;;;x;;;;
+ENG_socialist_2;Labour Party;Labour Party;Labour Party;;Labour Party;;;;;;;;;x;;;;
+ENG_reactionary;High Tories;High Tories;High Tories;;High Tories;;;;;;;;;x;;;;
+ENG_communist;Social Democratic Federation;Social Democratic Federation;Social Democratic Federation;;Social Democratic Federation;;;;;;;;;x;;;;
+ENG_fascist;British Fascists;British Fascists;British Fascists;;British Fascists;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;x;;;;
 PROV2462;San Miguel;San Miguel;San Miguel;;San Miguel;;;;;;;;;x;;;;
 PROV2215;Cap Henri;Cap Henri;Cap Henri;;Cap Henri;;;;;;;;;x;;;;
