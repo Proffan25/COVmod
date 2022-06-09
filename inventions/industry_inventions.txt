@@ -369,7 +369,6 @@ precision_work = {
         factory_goods_output = {
             ammunition = 0.1
         }
-        activate_building = machine_parts_factory
     }
 }
 
@@ -1732,24 +1731,6 @@ vacuum_tube = {
         factory_goods_output = { radio = 0.03 }
         factory_goods_output = { telephones = 0.03 }
         factory_goods_output = { electric_gear = 0.03 }
-    }
-}
-
-tulls_seed_drill = {
-    limit = { piston_steam_engine = 1 }
-    chance = {
-        base = 6
-    }
-    effect = {
-        rgo_goods_output = {
-            grain = 0.1
-        }
-        rgo_goods_output = {
-            fruit = 0.1
-        }
-        rgo_goods_output = {
-            coffee = 0.1
-        }
     }
 }
 

@@ -22,7 +22,7 @@ battleship = {
 
 
     #Building Costs
-    build_time = 360
+    build_time = 370
     build_cost = {
         steamer_convoy = 120     # 7800 | was 80 - 5200
         artillery = 90             # 5400 | was 20 - 1200

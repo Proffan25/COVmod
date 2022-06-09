@@ -21,7 +21,7 @@ cruiser = {
 
 
     #Building Costs
-    build_time = 240
+    build_time = 250
     build_cost = {
         steamer_convoy = 80     # 5200 | was 30 - 1950
         artillery = 70            # 4200 | was 10 - 600

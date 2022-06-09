@@ -1,25 +1,4 @@
 #stock_exchange
-multitude_of_financial_instruments = {
-    limit = {
-        stock_exchange = 1
-        has_country_flag = existing_country
-    }
-    news = no
-    chance = {
-        base = 2
-        modifier = {
-            factor = 2
-            nationalvalue = nv_liberty
-        }
-        modifier = {
-            factor = 2
-            trade_policy = free_trade
-        }
-    }
-    effect = {
-        tax_eff = 1
-    }
-}
 insurance_companies = {
     limit = {
         stock_exchange = 1
@@ -38,7 +17,7 @@ insurance_companies = {
         }
     }
     effect = {
-        tax_eff = 2
+        tax_eff = 1
     }
 }
 regulated_buying_and_selling_of_stocks = {
@@ -59,7 +38,7 @@ regulated_buying_and_selling_of_stocks = {
         }
     }
     effect = {
-        tax_eff = 2
+        tax_eff = 1
     }
 }
 #business_banks
@@ -251,7 +230,7 @@ silver_standard = {
         }
     }
     effect = {
-        tax_eff = 1
+        tax_eff = 0.5
     }
 }
 decimal_monetary_system = {
@@ -269,7 +248,7 @@ decimal_monetary_system = {
         }
     }
     effect = {
-        tax_eff = 1
+        tax_eff = 0.5
     }
 }
 #private_bank_money_bill_printing
@@ -288,7 +267,7 @@ double_standard = {
         }
     }
     effect = {
-        tax_eff = 1
+        tax_eff = 0.5
     }
 }
 fixed_intramonetary_exchange_rates = {
@@ -306,7 +285,7 @@ fixed_intramonetary_exchange_rates = {
         }
     }
     effect = {
-        tax_eff = 1
+        tax_eff = 0.5
     }
 }
 #central_bank_money_bill_printing

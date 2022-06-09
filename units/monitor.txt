@@ -21,7 +21,7 @@ monitor = {
     weighted_value = 10.0
 
     #Building Costs
-    build_time = 360
+    build_time = 370
     build_cost = {
         steamer_convoy = 40         # 2600 | was 25 - 1625
         artillery = 60              # 3600 | was 12 - 720

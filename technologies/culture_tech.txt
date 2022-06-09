@@ -3,6 +3,9 @@ baroque_art = {
 	area = aesthetics
 	year = 1815
 	cost = 1000
+	
+	prestige = 0.075
+	
 	ai_chance = {
 		factor = 2
 	}

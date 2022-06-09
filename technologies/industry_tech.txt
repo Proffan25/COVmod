@@ -3,6 +3,11 @@ pumping_steam_engine = {
 	area = tech_power
 	year = 1815
 	cost = 1000
+	
+	rgo_goods_output = { grain = 0.1 }
+    rgo_goods_output = { fruit = 0.1 }
+    rgo_goods_output = { coffee = 0.1 }
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -329,6 +334,9 @@ metal_machine_tooling = {
 	area = mechanization
 	year = 1815
 	cost = 1000
+	
+	activate_building = machine_parts_factory
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -591,6 +599,9 @@ crucible_steel_production = {
 	area = metallurgy
 	year = 1815
 	cost = 1000
+	
+    activate_building = steel_factory
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -600,8 +611,6 @@ hot_blast = {
     area = metallurgy
     year = 1836
     cost = 3600
-
-    activate_building = steel_factory
 
     rgo_goods_output = {
         iron = 0.2
@@ -1406,6 +1415,9 @@ triage = {
 	area = chemistry_and_electricity
 	year = 1815
 	cost = 1000
+	
+	supply_limit = 0.1
+	
 	ai_chance = {
 		factor = 2
 	}

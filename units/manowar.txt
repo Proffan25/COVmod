@@ -21,7 +21,7 @@ manowar = {
 
 
     #Building Costs
-    build_time = 360
+    build_time = 370
     build_cost = {
         clipper_convoy = 50 #2100£ | was 15 - 630£
         artillery = 30 #1800 £ |was 10 - 600£
@@ -40,8 +40,8 @@ manowar = {
     }
 
     #Naval Abilties
-    hull = 3
-    gun_power = 6
+    hull = 2
+    gun_power = 4
     fire_range = 0.3
     evasion = 0
 }

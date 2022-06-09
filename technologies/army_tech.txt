@@ -3,6 +3,11 @@ corps_system = {
 	area = army_doctrine
 	year = 1815
 	cost = 1000
+	unciv_military = yes
+	
+	activate_unit = cuirassier
+	army_base = { maximum_speed = 1 } 
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -816,6 +821,10 @@ flintlock_rifles = {
 	area = light_armament
 	year = 1815
 	cost = 1000
+	unciv_military = yes
+	
+	activate_unit = infantry
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -826,8 +835,8 @@ percussion_rifles = {
     year = 1836
     cost = 3600
     unciv_military = yes
-
-    activate_unit = infantry
+	
+    combat_width = -1
 
     ai_chance = {
         factor = 2
@@ -1641,6 +1650,10 @@ artillery_standardization = {
 	area = heavy_armament
 	year = 1815
 	cost = 1000
+	unciv_military = yes
+	
+	activate_unit = artillery
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -1651,7 +1664,12 @@ bronze_muzzle_loaded_artillery = {
     year = 1836
     cost = 3600
     unciv_military = yes
-    activate_unit = artillery
+
+	artillery = {
+        attack = 0.25
+        support = 0.5
+        supply_consumption = 0.10
+    }
 
     ai_chance = {
         factor = 4
@@ -2379,6 +2397,14 @@ military_staff_system = {
 	area = military_science
 	year = 1815
 	cost = 1000
+	unciv_military = yes
+	
+	activate_unit = hussar
+	army_base = {
+        default_organisation = 5
+        supply_consumption = 0.10
+    }
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -3213,6 +3239,14 @@ army_meritocratic_commissions = {
 	area = army_leadership
 	year = 1815
 	cost = 1000
+	unciv_military = yes
+	
+	activate_unit = dragoon
+	morale = 0.15
+    army_base = {
+        supply_consumption = 0.10
+    }
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -3222,11 +3256,10 @@ army_command_principle = {
     area = army_leadership
     year = 1836
     cost = 3600
-
-    morale = 0.25
-    unciv_military = yes
+	unciv_military = yes
+	
+    morale = 0.10
     military_tactics = 0.25
-
     army_base = {
         supply_consumption = 0.10
     }

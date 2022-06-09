@@ -3,6 +3,10 @@ line_of_battle = {
 	area = naval_doctrine
 	year = 1815
 	cost = 1000
+	unciv_military = yes
+	
+    activate_building = naval_base
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -13,9 +17,16 @@ post_nelsonian_thought = {
     year = 1836
     cost = 3600
     unciv_military = yes
-    activate_building = naval_base
-    colonial_points = 100
 
+    colonial_points = 100
+	frigate = {
+		hull = 1
+		gun_power = 1
+	}
+	manowar = {
+		hull = 1
+		gun_power = 2
+	}
 
     ai_chance = {
         factor = 1.5
@@ -546,6 +557,7 @@ age_of_sail_design = {
 	area = ship_construction
 	year = 1815
 	cost = 1000
+	unciv_military = yes
 	ai_chance = {
 		factor = 2
 	}
@@ -1133,6 +1145,10 @@ rating_system = {
 	area = naval_engineering
 	year = 1815
 	cost = 1000
+	unciv_military = yes
+	
+	navy_base = { build_time = -10 }
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -1707,6 +1723,10 @@ board_of_admiralty = {
 	area = naval_science
 	year = 1815
 	cost = 1000
+	unciv_military = yes
+	
+	supply_range = 0.25
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -1717,7 +1737,8 @@ alphabetic_flag_signaling = {
     year = 1836
     cost = 3600
     unciv_military = yes
-    supply_range = 0.5
+	
+    supply_range = 0.25
 
     ai_chance = {
         factor = 0.25
@@ -2035,6 +2056,12 @@ navy_meritocratic_commissions = {
 	area = naval_leadership
 	year = 1815
 	cost = 1000
+	unciv_military = yes
+	
+	navy_base = {
+        default_organisation = 5
+    }
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -2046,7 +2073,7 @@ the_command_principle = {
     cost = 3600
     unciv_military = yes
     navy_base = {
-        default_organisation = 10
+        default_organisation = 5
     }
     ai_chance = {
         factor = 0.25

@@ -10,8 +10,8 @@ artillery = {
     #Core Abilities
     priority = 20
     max_strength = 3
-    default_organisation = 30
-    maximum_speed = 4.00
+    default_organisation = 25
+    maximum_speed = 3.00
     weighted_value = 5.0
 
 
@@ -23,7 +23,7 @@ artillery = {
         liquor = 10
     }
 
-    supply_consumption = 1.0
+    supply_consumption = 0.9
     supply_cost = {
         artillery = 0.1 #0.008
         canned_food = 0.06 #0.004
@@ -32,10 +32,10 @@ artillery = {
 
     #Land Abilties
     reconnaissance = 0
-    attack = 1.5
+    attack = 1.25
     defence = 3
     discipline = 1.0
-    support = 2
+    support = 1.5
     maneuver = 1
 
 }
