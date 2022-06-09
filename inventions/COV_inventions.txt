@@ -58,6 +58,17 @@ elan = {
     }
 }
 
+#mercantilist_policy
+colbert = {
+    limit = { mercantilist_policy = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        tariff_efficiency_modifier = 0.05
+    }
+}
+
 #triage
 ambulances = {
     limit = { triage = 1 }

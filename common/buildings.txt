@@ -693,11 +693,11 @@ railroad = {
     time = 365 #Original
     visibility = yes
     onmap = yes
-    max_level = 6
+    max_level = 7
     province = yes
 
-    infrastructure = 0.16
-    movement_cost = -0.05
+    infrastructure = 0.14
+    movement_cost = -0.043
 
     pop_build_factory = yes
     spawn_railway_track = yes

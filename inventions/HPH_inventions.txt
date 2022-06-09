@@ -1234,7 +1234,7 @@ industrial_luxury_furniture_production = {
 }
 
 industrial_sawmills = {
-    limit = { early_classical_theory_and_critique = 1 }
+    limit = { physiocratic_theory = 1 }
     news = no
     chance = {
         base = 2

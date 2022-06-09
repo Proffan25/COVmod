@@ -1181,6 +1181,9 @@ posting_system = {
 	area = tech_infrastructure
 	year = 1815
 	cost = 1000
+	
+	activate_building = railroad
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -1191,7 +1194,7 @@ experimental_railroad = {
     year = 1836
     cost = 3600
 
-    activate_building = railroad
+    max_railroad = 1
 
     ai_chance = {
         factor = 3
@@ -1384,6 +1387,7 @@ limited_access_roads = {
     cost = 21600
 
     max_railroad = 1
+	
     ai_chance = {
         factor = 3
         modifier = {
