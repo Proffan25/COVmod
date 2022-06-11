@@ -4,7 +4,7 @@
     aristocrats = {
         culture = swiss
         religion = protestant
-        size = 400
+        size = 489
     }
 
     clergymen = {
@@ -13,28 +13,10 @@
         size = 1157
     }
 
-    capitalists = {
-        culture = swiss
-        religion = protestant
-        size = 89
-    }
-
-    clerks = {
-        culture = swiss
-        religion = protestant
-        size = 89
-    }
-
-    craftsmen = {
-        culture = swiss
-        religion = protestant
-        size = 18868
-    }
-
     artisans = {
         culture = swiss
         religion = protestant
-        size = 1157
+        size = 1246
     }
 
     soldiers = {
@@ -46,7 +28,7 @@
     farmers = {
         culture = swiss
         religion = protestant
-        size = 57485
+        size = 76353
     }
 
     aristocrats = {
@@ -61,22 +43,10 @@
         size = 445
     }
 
-    clerks = {
-        culture = swiss
-        religion = catholic
-        size = 89
-    }
-
-    craftsmen = {
-        culture = swiss
-        religion = catholic
-        size = 534
-    }
-
     artisans = {
         culture = swiss
         religion = catholic
-        size = 1691
+        size = 1780
     }
 
     soldiers = {
@@ -88,23 +58,11 @@
     farmers = {
         culture = swiss
         religion = catholic
-        size = 40690
+        size = 41224
     }
 
     ######Jews
     aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
-    clerks = {
         culture = ashkenazi
         religion = jewish
         size = 89
@@ -125,13 +83,13 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 89
+        size = 178
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 89
+        size = 178
     }
     ########
 }
@@ -149,22 +107,10 @@
         size = 244
     }
 
-    clerks = {
-        culture = swiss
-        religion = protestant
-        size = 89
-    }
-
-    craftsmen = {
-        culture = swiss
-        religion = protestant
-        size = 667
-    }
-
     artisans = {
         culture = swiss
         religion = protestant
-        size = 2002
+        size = 2091
     }
 
     soldiers = {
@@ -176,7 +122,7 @@
     farmers = {
         culture = swiss
         religion = protestant
-        size = 29850
+        size = 30517
     }
 
     aristocrats = {
@@ -191,22 +137,10 @@
         size = 222
     }
 
-    clerks = {
-        culture = swiss
-        religion = catholic
-        size = 89
-    }
-
-    craftsmen = {
-        culture = swiss
-        religion = catholic
-        size = 534
-    }
-
     artisans = {
         culture = swiss
         religion = catholic
-        size = 1691
+        size = 1780
     }
 
     soldiers = {
@@ -218,7 +152,7 @@
     farmers = {
         culture = swiss
         religion = catholic
-        size = 22962
+        size = 23496
     }
 }
 #Bern (352000/88000 POPS)
@@ -226,13 +160,7 @@
     aristocrats = {
         culture = swiss
         religion = protestant
-        size = 311
-    }
-
-    capitalists = {
-        culture = swiss
-        religion = protestant
-        size = 89
+        size = 400
     }
 
     officers = {
@@ -253,22 +181,10 @@
         size = 556
     }
 
-    clerks = {
-        culture = swiss
-        religion = protestant
-        size = 89
-    }
-
-    craftsmen = {
-        culture = swiss
-        religion = protestant
-        size = 1335
-    }
-
     artisans = {
         culture = swiss
         religion = protestant
-        size = 4005
+        size = 4094
     }
 
     soldiers = {
@@ -280,7 +196,7 @@
     farmers = {
         culture = swiss
         religion = protestant
-        size = 70310
+        size = 71645
     }
 }
 #Lucerne (204000/51000 POPS)

@@ -5,13 +5,7 @@
     aristocrats = {
         culture = north_italian
         religion = catholic
-        size = 3560
-    }
-
-    capitalists = {
-        culture = north_italian
-        religion = catholic
-        size = 66
+        size = 3626
     }
 
     bureaucrats = {
@@ -38,12 +32,6 @@
         size = 890
     }
 
-    craftsmen = {
-        culture = north_italian
-        religion = catholic
-        size = 2670
-    }
-
     artisans = {
         culture = north_italian
         religion = catholic
@@ -59,7 +47,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 177911
+        size = 180581
     }
 
     ######Jews
@@ -95,11 +83,6 @@
     ########
 
     ########Swiss Pops
-    capitalists = {
-        culture = swiss
-        religion = catholic
-        size = 89
-    }
 
     soldiers = {
         culture = swiss
@@ -116,7 +99,7 @@
     artisans = {
         culture = swiss
         religion = catholic
-        size = 89
+        size = 178
     }
 
     farmers = {
@@ -369,13 +352,7 @@
     aristocrats = {
         culture = north_italian
         religion = catholic
-        size = 6541
-    }
-
-    capitalists = {
-        culture = north_italian
-        religion = catholic
-        size = 22
+        size = 6563
     }
 
     bureaucrats = {
@@ -420,12 +397,6 @@
         size = 5340
     }
 
-    craftsmen = {
-        culture = north_italian
-        religion = catholic
-        size = 2670
-    }
-
     soldiers = {
         culture = north_italian
         religion = catholic
@@ -435,7 +406,7 @@
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 245573
+        size = 248243
     }
 
     ######Jews
@@ -477,22 +448,10 @@
         size = 89
     }
 
-    capitalists = {
-        culture = swiss
-        religion = catholic
-        size = 66
-    }
-
     soldiers = {
         culture = swiss
         religion = catholic
         size = 155
-    }
-
-    craftsmen = {
-        culture = swiss
-        religion = catholic
-        size = 89
     }
 
     clergymen = {
@@ -504,13 +463,13 @@
     artisans = {
         culture = swiss
         religion = catholic
-        size = 267
+        size = 333
     }
 
     farmers = {
         culture = swiss
         religion = catholic
-        size = 178
+        size = 267
     }
 }
 #Bergamo (472000/118000 POPS)
@@ -1318,13 +1277,7 @@
     aristocrats = {
         culture = north_italian
         religion = catholic
-        size = 3515
-    }
-
-    capitalists = {
-        culture = north_italian
-        religion = catholic
-        size = 17
+        size = 3532
     }
 
     bureaucrats = {
@@ -1363,16 +1316,10 @@
         size = 1780
     }
 
-    craftsmen = {
-        culture = north_italian
-        religion = catholic
-        size = 178
-    }
-
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 133411
+        size = 133589
     }
 
     ######Jews
@@ -1874,16 +1821,11 @@
 #under the rule of Two Sicilies in 1836
 #Naples (1304000/326000 POPS)
 754 = {
-    capitalists = {
-        culture = south_italian
-        religion = catholic
-        size = 22
-    }
 
     aristocrats = {
         culture = south_italian
         religion = catholic
-        size = 7342
+        size = 7364
     }
 
     bureaucrats = {
@@ -1970,12 +1912,6 @@
         size = 4450
     }
 
-    craftsmen = {
-        culture = south_italian
-        religion = catholic
-        size = 589
-    }
-
     soldiers = {
         culture = south_italian
         religion = catholic
@@ -1985,15 +1921,10 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 184330
+        size = 184919
     }
 
     ########Swiss Pops
-    capitalists = {
-        culture = swiss
-        religion = catholic
-        size = 89
-    }
 
     soldiers = {
         culture = swiss
@@ -2007,22 +1938,16 @@
         size = 89
     }
 
-    craftsmen = {
-        culture = swiss
-        religion = catholic
-        size = 200
-    }
-
     artisans = {
         culture = swiss
         religion = catholic
-        size = 267
+        size = 356
     }
 
     farmers = {
         culture = swiss
         religion = catholic
-        size = 178
+        size = 378
     }
 }
 #Salerno (572000/143000 POPS)

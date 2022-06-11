@@ -5,13 +5,7 @@
     aristocrats = {
         culture = czech
         religion = catholic
-        size = 3204
-    }
-
-    capitalists = {
-        culture = czech
-        religion = catholic
-        size = 44
+        size = 3248
     }
 
     bureaucrats = {
@@ -38,12 +32,6 @@
         size = 7298
     }
 
-    craftsmen = {
-        culture = czech
-        religion = catholic
-        size = 267
-    }
-
     artisans = {
         culture = czech
         religion = catholic
@@ -65,7 +53,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 275900
+        size = 276167
     }
 
     serfs = {
@@ -110,12 +98,6 @@
         size = 6853
     }
 
-    craftsmen = {
-        culture = south_german
-        religion = catholic
-        size = 267
-    }
-
     soldiers = {
         culture = south_german
         religion = catholic
@@ -125,19 +107,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 5139
-    }
-
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
+        size = 5406
     }
 
     clergymen = {
@@ -145,29 +115,23 @@
         religion = jewish
         size = 89
     }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 178
-    }
-
+	
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 2492
+        size = 2670
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 89
+        size = 178
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 1112
+        size = 1290
     }
 }
 #Hradec Kralove (441600/110400 POPS)
@@ -184,12 +148,6 @@
         size = 3960
     }
 
-    craftsmen = {
-        culture = czech
-        religion = catholic
-        size = 89
-    }
-
     soldiers = {
         culture = czech
         religion = catholic
@@ -199,7 +157,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 56025
+        size = 56114
     }
 
     serfs = {
@@ -226,12 +184,6 @@
         size = 801
     }
 
-    craftsmen = {
-        culture = south_german
-        religion = catholic
-        size = 89
-    }
-
     soldiers = {
         culture = south_german
         religion = catholic
@@ -241,7 +193,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 5963
+        size = 6052
     }
 
     clergymen = {
@@ -256,12 +208,6 @@
         size = 1246
     }
 
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
     soldiers = {
         culture = ashkenazi
         religion = jewish
@@ -271,7 +217,7 @@
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 556
+        size = 645
     }
 }
 #Karlsbad (579200/144800 POPS)
@@ -294,16 +240,10 @@
         size = 222
     }
 
-    craftsmen = {
-        culture = czech
-        religion = catholic
-        size = 89
-    }
-
     farmers = {
         culture = czech
         religion = catholic
-        size = 5162
+        size = 5251
     }
 
     serfs = {
@@ -336,25 +276,13 @@
         size = 1112
     }
 
-    craftsmen = {
-        culture = south_german
-        religion = catholic
-        size = 89
-    }
-
     farmers = {
         culture = south_german
         religion = catholic
-        size = 102216
+        size = 102305
     }
 
     aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
-    officers = {
         culture = ashkenazi
         religion = jewish
         size = 89
@@ -375,19 +303,13 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 89
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
+        size = 178
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 734
+        size = 823
     }
 }
 #Aussig (317600/79400 POPS)
@@ -410,16 +332,10 @@
         size = 89
     }
 
-    craftsmen = {
-        culture = czech
-        religion = catholic
-        size = 89
-    }
-
     farmers = {
         culture = czech
         religion = catholic
-        size = 890
+        size = 979
     }
 
     serfs = {
@@ -446,12 +362,6 @@
         size = 2892
     }
 
-    craftsmen = {
-        culture = south_german
-        religion = catholic
-        size = 89
-    }
-
     soldiers = {
         culture = south_german
         religion = catholic
@@ -461,7 +371,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 56804
+        size = 56893
     }
 
     ######Jews
@@ -484,26 +394,15 @@
         size = 178
     }
 
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 89
+        size = 178
     }
     ########
 }
 #Pilsen (490400/122600 POPS)
 629 = {
-    capitalists = {
-        culture = czech
-        religion = catholic
-        size = 44
-    }
 
     clergymen = {
         culture = czech
@@ -514,13 +413,7 @@
     artisans = {
         culture = czech
         religion = catholic
-        size = 2581
-    }
-
-    craftsmen = {
-        culture = czech
-        religion = catholic
-        size = 89
+        size = 2625
     }
 
     soldiers = {
@@ -532,7 +425,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 14240
+        size = 14329
     }
 
     serfs = {
@@ -565,12 +458,6 @@
         size = 5473
     }
 
-    craftsmen = {
-        culture = south_german
-        religion = catholic
-        size = 89
-    }
-
     soldiers = {
         culture = south_german
         religion = catholic
@@ -580,7 +467,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 57716
+        size = 57805
     }
 
     clergymen = {
@@ -601,16 +488,10 @@
         size = 89
     }
 
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 1624
+        size = 1713
     }
 }
 #Budejovice (405600/101400 POPS)
@@ -633,12 +514,6 @@
         size = 1112
     }
 
-    craftsmen = {
-        culture = czech
-        religion = catholic
-        size = 267
-    }
-
     soldiers = {
         culture = czech
         religion = catholic
@@ -654,7 +529,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 3560
+        size = 3827
     }
 
     serfs = {
@@ -687,12 +562,6 @@
         size = 4895
     }
 
-    craftsmen = {
-        culture = south_german
-        religion = catholic
-        size = 89
-    }
-
     soldiers = {
         culture = south_german
         religion = catholic
@@ -702,7 +571,7 @@
     farmers = {
         culture = south_german
         religion = catholic
-        size = 63256
+        size = 63345
     }
 
     clergymen = {
@@ -723,16 +592,10 @@
         size = 89
     }
 
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 1179
+        size = 1268
     }
 }
 #Moravia Region (1476000)
@@ -763,12 +626,6 @@
         size = 15530
     }
 
-    craftsmen = {
-        culture = czech
-        religion = catholic
-        size = 89
-    }
-
     soldiers = {
         culture = czech
         religion = catholic
@@ -778,7 +635,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 140620
+        size = 140709
     }
 
     serfs = {
@@ -829,16 +686,10 @@
         size = 623
     }
 
-    craftsmen = {
-        culture = south_german
-        religion = catholic
-        size = 89
-    }
-
     farmers = {
         culture = south_german
         religion = catholic
-        size = 29303
+        size = 29392
     }
 
     clergymen = {
@@ -853,12 +704,6 @@
         size = 1691
     }
 
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
     soldiers = {
         culture = ashkenazi
         religion = jewish
@@ -868,7 +713,7 @@
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 1219
+        size = 1308
     }
 }
 #Olomouc (372800/93200 POPS)

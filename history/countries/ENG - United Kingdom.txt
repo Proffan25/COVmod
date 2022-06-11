@@ -80,8 +80,6 @@ posting_system = 1
 triage = 1
 
 # Inventions
-#corvettes = yes
-precision_work = yes
 
 # Starting Consciousness
 consciousness = 3

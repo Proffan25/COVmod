@@ -1346,7 +1346,7 @@
     aristocrats = {
         culture = north_german
         religion = protestant
-        size = 1557
+        size = 1646
     }
 
     bureaucrats = {
@@ -1361,34 +1361,16 @@
         size = 1068
     }
 
-    capitalists = {
-        culture = north_german
-        religion = protestant
-        size = 89
-    }
-
     clergymen = {
         culture = north_german
         religion = protestant
         size = 1379
     }
 
-    clerks = {
-        culture = north_german
-        religion = protestant
-        size = 534
-    }
-
-    craftsmen = {
-        culture = north_german
-        religion = protestant
-        size = 14707
-    }
-
     artisans = {
         culture = north_german
         religion = protestant
-        size = 35600
+        size = 36134
     }
 
     soldiers = {
@@ -1400,19 +1382,13 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 94607
+        size = 109447
     }
 
     clergymen = {
         culture = north_german
         religion = catholic
         size = 89
-    }
-
-    craftsmen = {
-        culture = north_german
-        religion = catholic
-        size = 133
     }
 
     artisans = {
@@ -1434,16 +1410,11 @@
     }
 
     ######Jews
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
 
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 89
+        size = 178
     }
 
     officers = {
@@ -1483,12 +1454,6 @@
         size = 89
     }
 
-    craftsmen = {
-        culture = polish
-        religion = catholic
-        size = 133
-    }
-
     artisans = {
         culture = polish
         religion = catholic
@@ -1504,7 +1469,7 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 2581
+        size = 2714
     }
 }
 #Prenzlau (280000/70000 POPS)
@@ -2019,7 +1984,7 @@
     aristocrats = {
         culture = north_german
         religion = protestant
-        size = 1695
+        size = 1815
     }
 
     bureaucrats = {
@@ -2034,34 +1999,16 @@
         size = 120
     }
 
-    capitalists = {
-        culture = north_german
-        religion = protestant
-        size = 120
-    }
-
     clergymen = {
         culture = north_german
         religion = protestant
         size = 1828
     }
 
-    clerks = {
-        culture = north_german
-        religion = protestant
-        size = 120
-    }
-
-    craftsmen = {
-        culture = north_german
-        religion = protestant
-        size = 1148
-    }
-
     artisans = {
         culture = north_german
         religion = protestant
-        size = 11503
+        size = 11623
     }
 
     soldiers = {
@@ -2073,13 +2020,13 @@
     labourers = {
         culture = north_german
         religion = protestant
-        size = 153640
+        size = 154788
     }
 
     aristocrats = {
         culture = north_german
         religion = catholic
-        size = 89
+        size = 178
     }
 
     officers = {
@@ -2088,19 +2035,7 @@
         size = 89
     }
 
-    capitalists = {
-        culture = north_german
-        religion = catholic
-        size = 89
-    }
-
     clergymen = {
-        culture = north_german
-        religion = catholic
-        size = 89
-    }
-
-    craftsmen = {
         culture = north_german
         religion = catholic
         size = 89
@@ -2121,26 +2056,14 @@
     labourers = {
         culture = north_german
         religion = catholic
-        size = 4868
-    }
-
-    clerks = {
-        culture = north_german
-        religion = catholic
-        size = 89
+        size = 5046
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 89
-    }
-
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
+        size = 178
     }
 
     officers = {
@@ -2163,22 +2086,10 @@
         size = 1170
     }
 
-    clerks = {
-        culture = north_german
-        religion = protestant
-        size = 120
-    }
-
-    craftsmen = {
-        culture = north_german
-        religion = protestant
-        size = 1250
-    }
-
     artisans = {
         culture = north_german
         religion = protestant
-        size = 9416
+        size = 9536
     }
 
     soldiers = {
@@ -2190,7 +2101,7 @@
     labourers = {
         culture = north_german
         religion = protestant
-        size = 95728
+        size = 96978
     }
 
     ######Jews
@@ -2206,28 +2117,16 @@
         size = 89
     }
 
-    clerks = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 89
+        size = 178
     }
 
     labourers = {
         culture = ashkenazi
         religion = jewish
-        size = 89
+        size = 178
     }
     ########
 }
@@ -3401,25 +3300,13 @@
     aristocrats = {
         culture = north_german
         religion = catholic
-        size = 1068
+        size = 1246
     }
 
     bureaucrats = {
         culture = north_german
         religion = catholic
         size = 1869
-    }
-
-    capitalists = {
-        culture = north_german
-        religion = catholic
-        size = 89
-    }
-
-    capitalists = {
-        culture = north_german
-        religion = protestant
-        size = 89
     }
 
     officers = {
@@ -3434,28 +3321,10 @@
         size = 1090
     }
 
-    clerks = {
-        culture = north_german
-        religion = catholic
-        size = 1891
-    }
-
-    craftsmen = {
-        culture = north_german
-        religion = catholic
-        size = 14685
-    }
-
     artisans = {
         culture = north_german
         religion = catholic
-        size = 3226
-    }
-
-    artisans = {
-        culture = north_german
-        religion = catholic
-        size = 3226
+        size = 8343
     }
 
     soldiers = {
@@ -3467,20 +3336,14 @@
     farmers = {
         culture = north_german
         religion = catholic
-        size = 75836
+        size = 90521
     }
 
     ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 89
-    }
-
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
+        size = 178
     }
 
     officers = {
@@ -3626,27 +3489,9 @@
     aristocrats = {
         culture = north_german
         religion = catholic
-        size = 623
+        size = 890
     }
-
-    capitalists = {
-        culture = north_german
-        religion = catholic
-        size = 89
-    }
-
-    capitalists = {
-        culture = north_german
-        religion = protestant
-        size = 89
-    }
-
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
+	
     clergymen = {
         culture = north_german
         religion = catholic
@@ -3665,16 +3510,10 @@
         size = 1780
     }
 
-    craftsmen = {
-        culture = north_german
-        religion = catholic
-        size = 4450
-    }
-
     farmers = {
         culture = north_german
         religion = catholic
-        size = 51108
+        size = 55558
     }
 
     aristocrats = {
@@ -3701,16 +3540,10 @@
         size = 890
     }
 
-    craftsmen = {
-        culture = north_german
-        religion = protestant
-        size = 4450
-    }
-
     farmers = {
         culture = north_german
         religion = protestant
-        size = 12905
+        size = 17355
     }
 
     ######Jews
@@ -3738,12 +3571,6 @@
         size = 89
     }
 
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
     artisans = {
         culture = ashkenazi
         religion = jewish
@@ -3753,7 +3580,7 @@
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 89
+        size = 178
     }
     ########
 
@@ -3884,25 +3711,7 @@
     aristocrats = {
         culture = north_german
         religion = protestant
-        size = 222
-    }
-
-    capitalists = {
-        culture = north_german
-        religion = catholic
-        size = 89
-    }
-
-    capitalists = {
-        culture = north_german
-        religion = protestant
-        size = 89
-    }
-
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
+        size = 489
     }
 
     bureaucrats = {
@@ -3935,16 +3744,10 @@
         size = 890
     }
 
-    craftsmen = {
-        culture = north_german
-        religion = catholic
-        size = 3560
-    }
-
     farmers = {
         culture = north_german
         religion = protestant
-        size = 18445
+        size = 22005
     }
 
     aristocrats = {
@@ -3977,16 +3780,10 @@
         size = 1780
     }
 
-    craftsmen = {
-        culture = north_german
-        religion = catholic
-        size = 3560
-    }
-
     farmers = {
         culture = north_german
         religion = catholic
-        size = 49372
+        size = 52932
     }
 
     ######Jews
@@ -4014,12 +3811,6 @@
         size = 89
     }
 
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
     artisans = {
         culture = ashkenazi
         religion = jewish
@@ -4029,7 +3820,7 @@
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 178
+        size = 267
     }
     ########
 }
