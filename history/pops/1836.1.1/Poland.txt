@@ -330,16 +330,10 @@
         size = 1557
     }
 
-    clerks = {
-        culture = north_german
-        religion = protestant
-        size = 111
-    }
-
     artisans = {
         culture = north_german
         religion = protestant
-        size = 10488
+        size = 10599
     }
 
     soldiers = {
@@ -390,16 +384,10 @@
         size = 89
     }
 
-    clerks = {
-        culture = ashkenazi
-        religion = jewish
-        size = 89
-    }
-
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1312
+        size = 1401
     }
 
     soldiers = {

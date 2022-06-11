@@ -1,10 +1,12 @@
 #;;;;;;;;;;;;;;x;;;;
-LPL;United Provinces of the Rio de la Plata;;;;;;;;;;;;;
-LPL_absolute_monarchy;United Provinces of the Rio de la Plata;;;;;;;;;;;;;
-LPL_prussian_constitutionalism;United Provinces of the Rio de la Plata;;;;;;;;;;;;;
-LPL_hms_government;United Provinces of the Rio de la Plata;;;;;;;;;;;;;
-LPL_monarchy;United Provinces of the Rio de la Plata;;;;;;;;;;;;;
-LPL_fascist_dictatorship;United Provinces of the Rio de la Plata;;;;;;;;;;;;;
+LPL;United Provinces;;;;;;;;;;;;;
+LPL_absolute_monarchy;United Provinces;;;;;;;;;;;;;
+LPL_prussian_constitutionalism;United Provinces;;;;;;;;;;;;;
+LPL_hms_government;United Provinces;;;;;;;;;;;;;
+LPL_monarchy;United Provinces;;;;;;;;;;;;;
+LPL_republic;United Provinces;;;;;;;;;;;;;
+LPL_democracy;United Provinces;;;;;;;;;;;;;
+LPL_fascist_dictatorship;United Provinces;;;;;;;;;;;;;
 LPL_proletarian_dictatorship;People's Republic of the Rio de la Plata;;;;;;;;;;;;;
 LPL_ADJ;Platine;Platine;Platinean;;Platine;;;;;;;;;x;;;;
 PBA_absolute_monarchy;Portugal-Brazil;;;;;;;;;;;;;
