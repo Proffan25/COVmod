@@ -6,6 +6,6 @@
     farmers = {
         culture = platinean
         religion = catholic
-        size = 0
+        size = 1
     }
 }

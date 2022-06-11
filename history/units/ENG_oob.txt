@@ -739,7 +739,7 @@ army = {
 
 army = {
     name = "The Bombay Army"
-    location = 1297
+    location = 1296
     regiment = {
         name= "1.9th Division"
         type = infantry
@@ -761,37 +761,7 @@ army = {
     regiment = {
         name= "1.1st Indian Division"
         type = infantry
-        home = 1297
-    }
-
-    regiment = {
-        name= "2.1st Indian Division"
-        type = infantry
-        home = 1291
-    }
-
-    regiment = {
-        name= "3.1st Indian Division"
-        type = infantry
-        home = 1299
-    }
-
-    regiment = {
-        name= "1.2nd Indian Division"
-        type = infantry
-        home = 1316
-    }
-
-    regiment = {
-        name= "2.2nd Indian Division"
-        type = infantry
-        home = 1317
-    }
-
-    regiment = {
-        name= "3.2nd Indian Division"
-        type = infantry
-        home = 1317
+        home = 1296
     }
 
 }
