@@ -103,12 +103,6 @@ army = {
     }
 
     regiment = {
-        name= "2.1ème Division d'Infanterie"
-        type = infantry
-        home = 2570
-    }
-
-    regiment = {
         name= "3.1ème Division d'Infanterie"
         type = infantry
         home = 404

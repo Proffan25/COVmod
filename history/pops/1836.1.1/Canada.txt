@@ -3104,6 +3104,6 @@
     clergymen = {
         culture = french_canadian
         religion = catholic
-        size = 0
+        size = 1
     }
 }
