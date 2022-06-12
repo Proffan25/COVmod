@@ -558,6 +558,17 @@ age_of_sail_design = {
 	year = 1815
 	cost = 1000
 	unciv_military = yes
+	
+	clipper_transport = {
+        maximum_speed = 1
+    }
+    frigate = {
+        maximum_speed = 1
+    }
+    manowar = {
+        maximum_speed = 1
+    }
+	
 	ai_chance = {
 		factor = 2
 	}
