@@ -13,7 +13,7 @@ baroque_art = {
 
 classicism_n_early_romanticism = {
     area = aesthetics
-    year = 1836
+    year = 1815
     cost = 3600
 
     prestige = 0.075
@@ -37,7 +37,7 @@ classicism_n_early_romanticism = {
 
 romanticism = {
     area = aesthetics
-    year = 1836
+    year = 1825
     cost = 7200
 
     prestige = 0.075
@@ -418,6 +418,7 @@ anti__rationalism = {
     }
 }
 
+#social_thought
 malthusian_thought = {
     area = social_thought
     year = 1815
@@ -457,8 +458,6 @@ malthusian_thought = {
     }
 }
 
-
-#social_thought
 i_have_no_fucking_idea = {
 	area = social_thought
 	year = 1815
@@ -499,7 +498,7 @@ i_have_no_fucking_idea = {
 }
 positivism = {
     area = social_thought
-    year = 1836
+    year = 1825
     cost = 7200
     colonial_migration = 0.05
     education_efficiency = 0.1
@@ -740,7 +739,7 @@ the_social_contract = {
 
 enlightenment_thought = {
     area = political_thought
-    year = 1836
+    year = 1815
     cost = 3600
 
     max_national_focus = 1
@@ -764,7 +763,7 @@ enlightenment_thought = {
 }
 ideological_thought = {
     area = political_thought
-    year = 1836
+    year = 1825
     cost = 7200
 
     max_national_focus = 1
@@ -1033,7 +1032,7 @@ moralism = {
 
 introspectionism = {
     area = psychology
-    year = 1836
+    year = 1815
     cost = 3600
 
 
@@ -1088,7 +1087,7 @@ introspectionism = {
 }
 associationism = {
     area = psychology
-    year = 1836
+    year = 1825
     cost = 7200
 
     regular_experience_level = 5

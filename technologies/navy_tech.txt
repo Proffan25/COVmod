@@ -14,7 +14,7 @@ line_of_battle = {
 
 post_nelsonian_thought = {
     area = naval_doctrine
-    year = 1836
+    year = 1815
     cost = 3600
     unciv_military = yes
 
@@ -92,7 +92,7 @@ post_nelsonian_thought = {
 }
 battleship_column_doctrine = {
     area = naval_doctrine
-    year = 1836
+    year = 1825
     cost = 7200
     unciv_military = yes
     max_naval_base = 1
@@ -576,7 +576,7 @@ age_of_sail_design = {
 
 clipper_design = {
     area = ship_construction
-    year = 1836
+    year = 1815
     cost = 3600
     unciv_military = yes
     clipper_transport = {
@@ -662,7 +662,7 @@ clipper_design = {
 }
 steamers = {
     area = ship_construction
-    year = 1836
+    year = 1825
     cost = 7200
     unciv_military = yes
 
@@ -1167,7 +1167,7 @@ rating_system = {
 
 naval_design_bureaus = {
     area = naval_engineering
-    year = 1836
+    year = 1815
     cost = 3600
     navy_base = { build_time = -10 }
     unciv_military = yes
@@ -1252,7 +1252,7 @@ naval_design_bureaus = {
 }
 fire_control_systems = {
     area = naval_engineering
-    year = 1836
+    year = 1825
     cost = 7200
     unciv_military = yes
     navy_base = { build_time = -10 }
@@ -1745,7 +1745,7 @@ board_of_admiralty = {
 
 alphabetic_flag_signaling = {
     area = naval_science
-    year = 1836
+    year = 1815
     cost = 3600
     unciv_military = yes
 	
@@ -1793,7 +1793,7 @@ alphabetic_flag_signaling = {
 }
 naval_plans = {
     area = naval_science
-    year = 1836
+    year = 1825
     cost = 7200
     unciv_military = yes
     supply_range = 0.5
@@ -2080,7 +2080,7 @@ navy_meritocratic_commissions = {
 
 the_command_principle = {
     area = naval_leadership
-    year = 1836
+    year = 1815
     cost = 3600
     unciv_military = yes
     navy_base = {
@@ -2167,7 +2167,7 @@ the_command_principle = {
 }
 naval_professionalism = {
     area = naval_leadership
-    year = 1836
+    year = 1825
     cost = 7200
     unciv_military = yes
     navy_base = { default_organisation = 5 }

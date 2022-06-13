@@ -15,7 +15,7 @@ corps_system = {
 
 post_napoleonic_thought = {
     area = army_doctrine
-    year = 1836
+    year = 1815
     cost = 3600
     unciv_military = yes
 
@@ -155,7 +155,7 @@ post_napoleonic_thought = {
 
 strategic_mobility = {
     area = army_doctrine
-    year = 1836
+    year = 1825
     cost = 7200
     unciv_military = yes
 
@@ -832,7 +832,7 @@ flintlock_rifles = {
 
 percussion_rifles = {
     area = light_armament
-    year = 1836
+    year = 1815
     cost = 3600
     unciv_military = yes
 	
@@ -966,7 +966,7 @@ percussion_rifles = {
 }
 muzzle_loaded_rifles = {
     area = light_armament
-    year = 1836
+    year = 1825
     cost = 7200
     unciv_military = yes
     activate_unit = engineer
@@ -1661,7 +1661,7 @@ artillery_standardization = {
 
 bronze_muzzle_loaded_artillery = {
     area = heavy_armament
-    year = 1836
+    year = 1815
     cost = 3600
     unciv_military = yes
 
@@ -1706,7 +1706,7 @@ bronze_muzzle_loaded_artillery = {
 }
 iron_muzzle_loaded_artillery = {
     area = heavy_armament
-    year = 1836
+    year = 1825
     cost = 7200
     unciv_military = yes
     artillery = {
@@ -2412,7 +2412,7 @@ military_staff_system = {
 
 military_academies = {
     area = military_science
-    year = 1836
+    year = 1815
     cost = 3600
     unciv_military = yes
 
@@ -2549,7 +2549,7 @@ military_academies = {
 }
 military_plans = {
     area = military_science
-    year = 1836
+    year = 1825
     cost = 7200
     unciv_military = yes
 
@@ -3255,7 +3255,7 @@ army_meritocratic_commissions = {
 
 army_command_principle = {
     area = army_leadership
-    year = 1836
+    year = 1815
     cost = 3600
 	unciv_military = yes
 	
@@ -3397,7 +3397,7 @@ army_command_principle = {
 }
 army_professionalism = {
     area = army_leadership
-    year = 1836
+    year = 1825
     cost = 7200
     unciv_military = yes
     morale = 0.15
