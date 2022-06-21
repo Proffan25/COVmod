@@ -1,0 +1,11 @@
+
+army = {
+    name = "Army of the Sultan of Kedah"
+    location = 1389
+    regiment = {
+        name= "Kedahan State Troops"
+        type = irregular
+        home = 1385
+    }
+
+}

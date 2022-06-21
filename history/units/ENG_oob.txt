@@ -17,39 +17,13 @@ SUA = {
 }
 
 #Asia
-#Malay
-JOH = {
-    value = 50
-}
-
-SLG = {
-    value = 150
-    level = 5
-    influence_value = 50
-}
-
-PRK = {
-    value = 150
-    level = 5
-    influence_value = 50
-}
-
-PHG = {
-    value = 150
-    level = 5
-    influence_value = 50
-}
 
 BUR = {
     value = 125
     level = 5
     influence_value = 0
 }
-SIA = {
-    value = 150
-    level = 3
-    influence_value = 0
-}
+
 NEP = {
     value = -25
 }

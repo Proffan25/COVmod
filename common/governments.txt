@@ -69,7 +69,6 @@ hms_government = {
     conservative = yes
     reactionary = yes
     communist = yes
-    anarcho_liberal = yes
     fascist = yes
 
 
@@ -85,7 +84,6 @@ democracy = {
     conservative = yes
     reactionary = yes
     communist = yes
-    anarcho_liberal = yes
     fascist = yes
 
 
@@ -118,5 +116,18 @@ private_company = {
 
 
     election = no
+    appoint_ruling_party = no
+}
+
+autonomous_province = {
+    liberal = yes
+    socialist = yes
+    conservative = yes
+    reactionary = yes
+    communist = yes
+    fascist = yes
+
+
+    election = yes
     appoint_ruling_party = no
 }

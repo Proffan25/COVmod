@@ -49,6 +49,15 @@ upper_house = {
     communist = 0
 }
 
+govt_flag = {
+    government = prussian_constitutionalism
+    flag = theocracy
+}
+
+govt_flag = {
+    government = hms_government
+    flag = theocracy
+}
 
 # Technologies
 post_napoleonic_thought = 1

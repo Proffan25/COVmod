@@ -1,6 +1,3 @@
-ENG = {
-    value = 50
-}
 
 army = {
     name = "Army of the Sultan of Johore"
@@ -11,13 +8,4 @@ army = {
         home = 1385
     }
 
-}
-
-leader = {
-    name = "Sultan Ali Iskandar"
-    date = 1824.1.1
-    type = land
-    personality = gutsy
-    background = aristocrat
-    prestige = 0.0
 }

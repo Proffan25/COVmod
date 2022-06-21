@@ -1,0 +1,11 @@
+
+army = {
+    name = "Army of the Sultan of Kelantan"
+    location = 1391
+    regiment = {
+        name= "Kelantanese State Troops"
+        type = irregular
+        home = 1385
+    }
+
+}

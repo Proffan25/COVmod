@@ -64,13 +64,13 @@ SUL = {
     value = 100
 }
 
-POR = {
+PBA = {
     value = 120
 }
 
 army = {
     name = "Borneo Garnizoen"
-    location = 1408
+    location = 1423
     regiment = {
         name= "1e Infanterie Brigade"
         type = infantry
