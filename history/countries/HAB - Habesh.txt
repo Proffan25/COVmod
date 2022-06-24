@@ -1,8 +1,9 @@
-capital = 1151
-primary_culture = mashriqi
+capital = 1152
+primary_culture = turkish
+culture = mashriqi
 culture = bedouin
 religion = sunni
-government = absolute_monarchy
+government = viceroyalty
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
@@ -38,9 +39,9 @@ border_policy = open_borders
 ruling_party = HEJ_conservative
 upper_house = {
     fascist = 0
-    liberal = 13
+    liberal = 0
     conservative = 68
-    reactionary = 19
+    reactionary = 32
     anarcho_liberal = 0
     socialist = 0
     communist = 0
@@ -50,28 +51,9 @@ set_country_flag = sunni_country
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
-
-# Inventions
-small_arms_production = yes
-ammunition_production = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "HDJ_oob.txt"
-1861.1.1 = {
-    oob = "/1861/HDJ_oob.txt"
-    literacy = 0.13
-    non_state_culture_literacy = 0.04
-
-    #Military Reforms
-    foreign_weapons = yes_foreign_weapons
-
-    #Technologies
-    flintlock_rifles = 1
-}
+oob = "HAB_oob.txt"

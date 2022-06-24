@@ -3,11 +3,16 @@ primary_culture = misri
 culture = mashriqi
 culture = bedouin
 religion = sunni
-government = absolute_monarchy
+government = viceroyalty
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
 non_state_culture_literacy = 0.01
+
+govt_flag = {
+    government = autonomous_province
+    flag = absolute_monarchy
+}
 
 # Political reforms
 slavery = yes_slavery

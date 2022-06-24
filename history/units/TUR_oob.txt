@@ -50,9 +50,14 @@ NEJ = {
     value = -25
     level = 0
 }
-HDJ = {
+HAB = {
     value = 125        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 = sphere
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+NEJ = {
+    value = -200        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
 NYE = {
@@ -406,21 +411,6 @@ army = {
         name= "5. Sipahis"
         type = cavalry
         home = 926
-    }
-}
-
-army = {
-    name = "Pashalik of Tripoli Army"
-    location = 1736
-    regiment = {
-        name= "1. Askäris"
-        type = irregular
-        home = 1735
-    }
-    regiment = {
-        name= "6. Sipahis"
-        type = cavalry
-        home = 805
     }
 }
 

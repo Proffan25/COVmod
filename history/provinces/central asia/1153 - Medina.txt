@@ -1,7 +1,6 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
-add_core = HDJ
+owner = HAB
+controller = HAB
+add_core = HAB
 trade_goods = grain
 life_rating = 35
 terrain = semidesert

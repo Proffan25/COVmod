@@ -4,11 +4,16 @@ culture = berber
 culture = bedouin
 culture = tuareg
 religion = sunni
-government = absolute_monarchy
+government = viceroyalty
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
 non_state_culture_literacy = 0.01
+
+govt_flag = {
+    government = viceroyalty
+    flag = absolute_monarchy
+}
 
 # Political reforms
 slavery = yes_slavery
