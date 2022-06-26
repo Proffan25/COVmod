@@ -2,7 +2,7 @@
 family_banks = {
 	area = financial_institutions
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	tax_eff = 5
 	
@@ -200,7 +200,7 @@ mutual_funds = {
 metallism = {
 	area = monetary_system
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	administrative_efficiency = 0.05
 	
@@ -368,7 +368,7 @@ market_determined_exchange_rates = {
 physiocratic_theory = {
 	area = economic_thought_and_critique
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	factory_input = -0.01
 	
@@ -610,7 +610,7 @@ keynesian_economics = {
 mercantilist_policy = {
 	area = market_functionality
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	rgo_goods_output = { precious_metal = 0.15 }
 	
@@ -905,7 +905,7 @@ government_interventionism = {
 guild_based_production = {
 	area = tech_organization
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	factory_output = 0.01
 	

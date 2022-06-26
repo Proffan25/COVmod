@@ -2,7 +2,7 @@
 line_of_battle = {
 	area = naval_doctrine
 	year = 1815
-	cost = 1000
+	cost = 1800
 	unciv_military = yes
 	
     activate_building = naval_base
@@ -556,7 +556,7 @@ modern_naval_doctrine = {
 age_of_sail_design = {
 	area = ship_construction
 	year = 1815
-	cost = 1000
+	cost = 1800
 	unciv_military = yes
 	
 	clipper_transport = {
@@ -1155,7 +1155,7 @@ oil_driven_ships = {
 rating_system = {
 	area = naval_engineering
 	year = 1815
-	cost = 1000
+	cost = 1800
 	unciv_military = yes
 	
 	navy_base = { build_time = -10 }
@@ -1733,7 +1733,7 @@ modern_naval_design = {
 board_of_admiralty = {
 	area = naval_science
 	year = 1815
-	cost = 1000
+	cost = 1800
 	unciv_military = yes
 	
 	supply_range = 0.25
@@ -2066,7 +2066,7 @@ naval_integration = {
 navy_meritocratic_commissions = {
 	area = naval_leadership
 	year = 1815
-	cost = 1000
+	cost = 1800
 	unciv_military = yes
 	
 	navy_base = {

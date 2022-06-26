@@ -2,7 +2,7 @@
 baroque_art = {
 	area = aesthetics
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	prestige = 0.075
 	
@@ -182,7 +182,7 @@ mass_culture_n_the_avant_garde = {
 #philosophy
 late_enlightenment_philosophy = {
 	area = philosophy
-	year = 1780
+	year = 1815
 	cost = 1800
 
     increase_research = 0.50
@@ -194,7 +194,7 @@ late_enlightenment_philosophy = {
 
 counter_revolutionary_thought = {
     area = philosophy
-    year = 1790
+    year = 1820
     cost = 3600
 
     increase_research = 0.50
@@ -731,7 +731,11 @@ social_alienation = {
 the_social_contract = {
 	area = political_thought
 	year = 1815
-	cost = 1000
+	cost = 1800
+	
+	plurality = 0.1
+	
+	
 	ai_chance = {
 		factor = 2
 	}
@@ -1021,7 +1025,7 @@ mass_politics = {
 moralism = {
 	area = psychology
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	reinforce_rate = 0.05
 	

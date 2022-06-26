@@ -2,7 +2,7 @@
 pumping_steam_engine = {
 	area = tech_power
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	rgo_goods_output = { grain = 0.1 }
     rgo_goods_output = { fruit = 0.1 }
@@ -333,7 +333,7 @@ electrical_power_generation = {
 metal_machine_tooling = {
 	area = mechanization
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	activate_building = machine_parts_factory
 	
@@ -598,7 +598,7 @@ shift_work = {
 crucible_steel_production = {
 	area = metallurgy
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
     activate_building = steel_factory
 	
@@ -1180,7 +1180,7 @@ electric_furnace = {
 posting_system = {
 	area = tech_infrastructure
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	activate_building = railroad
 	
@@ -1418,7 +1418,7 @@ limited_access_roads = {
 triage = {
 	area = chemistry_and_electricity
 	year = 1815
-	cost = 1000
+	cost = 1800
 	
 	supply_limit = 0.1
 	
