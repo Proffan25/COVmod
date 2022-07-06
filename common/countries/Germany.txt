@@ -5,54 +5,24 @@ graphical_culture = PrussianGC
 
 
 party = {
-    name = "GER_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    name = "PRU_liberal" #LN Liberale Nationalisten
+    start_date = 1815.1.1
+    end_date = 1859.1.1
 
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pluralism
-    citizenship_policy = limited_citizenship
-    war_policy = anti_military
-}
-
-party = {
-    name = "GER_conservative"
-    start_date = 1878.1.1
-    end_date = 2000.1.1
-
-    ideology = conservative
-
-    social_policy = no_position_set
-    economic_policy = laissez_faire
-    trade_policy = protectionism
-    religious_policy = moralism
-    citizenship_policy = limited_citizenship
-    war_policy = anti_military
-}
-
-party = {
-    name = "GER_liberal_2"
-    start_date = 1861.1.1
-    end_date = 2000.1.1
-
-    ideology = liberal
-
-    social_policy = no_position_set
-    economic_policy = laissez_faire
-    trade_policy = free_trade
-    religious_policy = pluralism
-    citizenship_policy = limited_citizenship
+    citizenship_policy = full_citizenship
     war_policy = jingoism
 }
 
 party = {
-    name = "GER_liberal_3"
-    start_date = 1861.1.1
-    end_date = 2000.1.1
+    name = "PRU_liberal_2" #DNV Deutscher Nationalverein German National Association
+    start_date = 1859.1.1
+    end_date = 1861.1.1
 
     ideology = liberal
 
@@ -65,7 +35,97 @@ party = {
 }
 
 party = {
-    name = "GER_socialist"
+    name = "PRU_liberal_3" #DFSP Deutsche Fortschrittspartei German Progress Party
+    start_date = 1861.1.1
+    end_date = 1884.1.1
+
+    ideology = liberal
+
+    social_policy = no_position_set
+    economic_policy = laissez_faire
+    trade_policy = free_trade
+    religious_policy = secularized
+    citizenship_policy = full_citizenship
+    war_policy = anti_military
+}
+
+party = {
+    name = "PRU_liberal_4" #DFSP Deutsche Freisinnige Partei German-Liberal Party
+    start_date = 1884.1.1
+    end_date = 1893.1.1
+
+    ideology = liberal
+
+    social_policy = no_position_set
+    economic_policy = laissez_faire
+    trade_policy = free_trade
+    religious_policy = secularized
+    citizenship_policy = full_citizenship
+    war_policy = anti_military
+}
+
+party = {
+    name = "PRU_liberal_5" #FSVP Freisinnige Volkspartei
+    start_date = 1893.1.1
+    end_date = 1918.1.1
+
+    ideology = liberal
+
+    social_policy = no_position_set
+    economic_policy = laissez_faire
+    trade_policy = free_trade
+    religious_policy = secularized
+    citizenship_policy = full_citizenship
+    war_policy = anti_military
+}
+
+party = {
+    name = "PRU_liberal_6" #DDP Deutsche Demokratische Partei
+    start_date = 1918.1.1
+    end_date = 2000.1.1
+
+    ideology = liberal
+
+    social_policy = populist_welfare
+    economic_policy = interventionism
+    trade_policy = free_trade
+    religious_policy = secularized
+    citizenship_policy = full_citizenship
+    war_policy = anti_military
+}
+
+party = {
+    name = "PRU_liberal_7" #NLP Nationalliberale Partei
+    start_date = 1867.1.1
+    end_date = 1918.1.1
+
+    ideology = liberal
+
+    social_policy = no_position_set
+    economic_policy = interventionism
+    trade_policy = protectionism
+    religious_policy = pluralism
+    citizenship_policy = limited_citizenship
+    war_policy = pro_military
+}
+
+party = {
+    name = "PRU_liberal_8" #DVP Deutsche Volkspartei
+    start_date = 1918.1.1
+    end_date = 2000.1.1
+
+    ideology = liberal
+
+    social_policy = no_state_interference
+    economic_policy = laissez_faire
+    trade_policy = free_trade
+    religious_policy = pluralism
+    citizenship_policy = limited_citizenship
+    war_policy = pro_military
+}
+
+party = {
+    name = "PRU_socialist"
     start_date = 1860.1.1
     end_date = 1875.1.1
 
@@ -80,7 +140,7 @@ party = {
 }
 
 party = {
-    name = "GER_socialist_2"
+    name = "PRU_socialist_2"
     start_date = 1848.1.1
     end_date = 1875.1.1
 
@@ -95,7 +155,7 @@ party = {
 }
 
 party = {
-    name = "GER_socialist_3"
+    name = "PRU_socialist_3"
     start_date = 1875.1.1
     end_date = 2000.1.1
 
@@ -110,24 +170,9 @@ party = {
 }
 
 party = {
-    name = "GER_reactionary"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
-
-    ideology = reactionary
-
-    social_policy = no_position_set
-    economic_policy = state_capitalism
-    trade_policy = protectionism
-    religious_policy = moralism
-    citizenship_policy = residency
-    war_policy = jingoism
-}
-
-party = {
-    name = "GER_conservative_2"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    name = "GER_conservative" #Deutschkonservative Partei
+    start_date = 1815.1.1
+    end_date = 1918.1.1
 
     ideology = conservative
 
@@ -135,12 +180,27 @@ party = {
     economic_policy = interventionism
     trade_policy = protectionism
     religious_policy = moralism
-    citizenship_policy = residency
-    war_policy = jingoism
+    citizenship_policy = limited_citizenship
+    war_policy = pro_military
 }
 
 party = {
-    name = "GER_conservative_3"
+    name = "GER_conservative_2" #Deutsche Zentrumspartei
+    start_date = 1870.1.1
+    end_date = 2000.1.1
+
+    ideology = conservative
+
+    social_policy = no_position_set
+    economic_policy = interventionism
+    trade_policy = protectionism
+    religious_policy = pluralism
+    citizenship_policy = residency
+    war_policy = anti_military
+}
+
+party = {
+    name = "PRU_conservative_3"
     start_date = 1878.1.1
     end_date = 2000.1.1
 
@@ -155,7 +215,67 @@ party = {
 }
 
 party = {
-    name = "GER_anarcho_liberal"
+    name = "PRU_reactionary" #AP Alberteipartei
+    start_date = 1815.1.1
+    end_date = 1867.1.1
+
+    ideology = reactionary
+
+    social_policy = no_position_set
+    economic_policy = state_capitalism
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = pro_military
+}
+
+party = {
+    name = "PRU_reactionary_2" #FKP Freikonservative Partei
+    start_date = 1867.1.1
+    end_date = 1871.1.1
+
+    ideology = reactionary
+
+    social_policy = no_position_set
+    economic_policy = free_trade
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = jingoism
+}
+
+party = {
+    name = "PRU_reactionary_3" #DRP Deutsche Reichspartei
+    start_date = 1871.1.1
+    end_date = 1918.1.1
+
+    ideology = reactionary
+
+    social_policy = no_position_set
+    economic_policy = free_trade
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = jingoism
+}
+
+party = {
+    name = "PRU_reactionary_4" #DNVP Deutschnationale Volkspartei
+    start_date = 1918.1.1
+    end_date = 2000.1.1
+
+    ideology = reactionary
+
+    social_policy = no_position_set
+    economic_policy = state_capitalism
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = jingoism
+}
+
+party = {
+    name = "PRU_anarcho_liberal"
     start_date = 1830.1.1
     end_date = 2000.1.1
 
@@ -170,9 +290,9 @@ party = {
 }
 
 party = {
-    name = "GER_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    name = "GER_communist" #SPD-Linke
+    start_date = 1900.1.1
+    end_date = 1914.1.1
 
     ideology = communist
 
@@ -181,12 +301,72 @@ party = {
     trade_policy = protectionism
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
+    war_policy = pacifism
+}
+
+party = {
+    name = "GER_communist_2" #Spartakusbund
+    start_date = 1914.1.1
+    end_date = 1919.1.1
+
+    ideology = communist
+
+    social_policy = populist_welfare
+    economic_policy = planned_economy
+    trade_policy = protectionism
+    religious_policy = pro_atheism
+    citizenship_policy = full_citizenship
+    war_policy = pacifism
+}
+
+party = {
+    name = "GER_communist_3" #KPD
+    start_date = 1919.1.1
+    end_date = 2000.1.1
+
+    ideology = communist
+
+    social_policy = populist_welfare
+    economic_policy = planned_economy
+    trade_policy = protectionism
+    religious_policy = pro_atheism
+    citizenship_policy = residency
     war_policy = pro_military
 }
 
 party = {
-    name = "GER_fascist"
+    name = "PRU_fascist" #DSP
     start_date = 1900.1.1
+    end_date = 1922.1.1
+
+    ideology = fascist
+
+    social_policy = populist_welfare
+    economic_policy = state_capitalism
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = jingoism
+}
+
+party = {
+    name = "PRU_fascist_2" #DAP
+    start_date = 1900.1.1
+    end_date = 1920.1.1
+
+    ideology = fascist
+
+    social_policy = populist_welfare
+    economic_policy = state_capitalism
+    trade_policy = protectionism
+    religious_policy = moralism
+    citizenship_policy = residency
+    war_policy = jingoism
+}
+
+party = {
+    name = "PRU_fascist_3" #NSDAP
+    start_date = 1920.1.1
     end_date = 2000.1.1
 
     ideology = fascist
