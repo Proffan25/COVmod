@@ -50,6 +50,5 @@ upper_house = {
 set_country_flag = lacking_writing_system
 
 # Technologies
-flintlock_rifles = 1
 
 # Inventions
