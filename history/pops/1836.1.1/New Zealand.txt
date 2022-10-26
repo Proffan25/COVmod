@@ -26,49 +26,6 @@
         religion = animist
         size = 4875
     }
-
-    aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 29
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 196
-    }
-
-    bureaucrats = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 73
-    }
-
-    officers = {
-        culture = australian
-        religion = protestant
-        size = 24
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 196
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 980
-    }
-
 }
 
 #New Plymouth (8000/2000 POPS)
@@ -102,30 +59,6 @@
         religion = animist
         size = 2528
     }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 29
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 196
-    }
 }
 #Napier (12000/3000 POPS)
 2511 = {
@@ -151,12 +84,6 @@
         culture = maori
         religion = animist
         size = 73
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 4
     }
 
     farmers = {
@@ -189,12 +116,6 @@
         culture = maori
         religion = animist
         size = 73
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 4
     }
 
     farmers = {
@@ -234,31 +155,6 @@
         religion = animist
         size = 1457
     }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
 }
 
 #Kirikiriroa or Hamilton - Former Wake
@@ -287,30 +183,6 @@
         religion = animist
         size = 1458
     }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
 }
 
 #South Island Region (24000)
@@ -338,12 +210,6 @@
         culture = maori
         religion = animist
         size = 14
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 4
     }
 
     farmers = {
@@ -379,12 +245,6 @@
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    farmers = {
         culture = maori
         religion = animist
         size = 882
@@ -417,12 +277,6 @@
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    farmers = {
         culture = maori
         religion = animist
         size = 1739
@@ -452,12 +306,6 @@
         culture = maori
         religion = animist
         size = 73
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 4
     }
 
     farmers = {

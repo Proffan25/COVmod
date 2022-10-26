@@ -41,9 +41,6 @@ upper_house = {
     liberal = 60
     conservative = 40
     reactionary = 0
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
 }
 
 set_country_flag = new_world_nation
@@ -55,14 +52,17 @@ flintlock_rifles = 1
 artillery_standardization = 1
 army_meritocratic_commissions = 1
 line_of_battle = 1
+age_of_sail_design = 1
 navy_meritocratic_commissions = 1
 family_banks = 1
 metallism = 1
+no_standard = 1
+mercantilist_policy = 1
 guild_based_production = 1
 baroque_art = 1
 late_enlightenment_philosophy = 1
 the_social_contract = 1
-pumping_steam_engine = 1
-metal_machine_tooling = 1
+moralism = 1
+triage = 1
 
 oob = "LPL_oob.txt"

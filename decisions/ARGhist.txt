@@ -619,4 +619,32 @@ political_decisions = {
         }
         ai_will_do = { factor = 1 }
     }
+
+    take_control_of_malvinas = {
+        picture = map_falklands
+        potential = {
+            OR = {
+				tag = LPL
+				tag = ARG
+				tag = ARC
+				tag = SBA
+				tag = LFE
+			}
+			owns = 2348
+			2131 = { empty = yes }
+        }
+
+        allow = {
+            money = 20000
+            alphabetic_flag_signaling = 1
+        }
+
+        effect = {
+			2131 = {
+				secede_province = THIS
+                add_core = THIS
+			}
+		}
+        ai_will_do = { factor = 1 }
+	}
 }

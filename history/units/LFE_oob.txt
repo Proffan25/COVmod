@@ -16,6 +16,15 @@ LPL = {
 
 army = {
     name = "Ejército de Corrientes"
+
+	leader = {
+	   name = "Francisco Ramírez"
+	   type = land
+	   date = 1815.1.1
+	   background = bureaucrat_speed
+	   personality = arrogant
+	}
+
     location = 2356
     regiment = {
         name= "1. División de Infantería"
@@ -36,6 +45,15 @@ army = {
 
 army = {
     name = "Ejército Oriental"
+
+	leader = {
+	   name = "José Gervasio Artigas"
+	   type = land
+	   date = 1815.1.1
+	   background = nationalist
+	   personality = inspiring
+	}
+
     location = 2345
     regiment = {
         name= "3. División de Infantería"
@@ -52,34 +70,19 @@ army = {
 
 army = {
     name = "Ejército de Santa Fe"
+
+	leader = {
+	   name = "Estanislao López"
+	   type = land
+	   date = 1815.1.1
+	   background = innovative_tactician
+	   personality = relentless
+	}
+	
     location = 2361
     regiment = {
         name= "4. División de Infantería"
         type = infantry
         home = 2361
     }
-}
-
-leader = {
-   name = "José Gervasio Artigas"
-   type = land
-   date = 1815.1.1
-   background = nationalist
-   personality = inspiring
-}
-
-leader = {
-   name = "Estanislao López"
-   type = land
-   date = 1815.1.1
-   background = innovative_tactician
-   personality = relentless
-}
-
-leader = {
-   name = "Francisco Ramírez"
-   type = land
-   date = 1815.1.1
-   background = bureaucrat_speed
-   personality = arrogant
 }

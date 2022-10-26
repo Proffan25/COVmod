@@ -12,6 +12,13 @@ SGM = {
     military_access = yes
 }
 
+PZN = {
+    value = 200
+    level = 5
+    influence_value = 100
+    military_access = yes
+}
+
 ANH = {
     value = 200
     level = 5

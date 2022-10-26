@@ -242,12 +242,6 @@
         size = 23
     }
 
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 2511
-    }
-
     aristocrats = {
         culture = kazak
         religion = sunni

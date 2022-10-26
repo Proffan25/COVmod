@@ -102,67 +102,6 @@
 #Newcastle (16000/4000 POPS)
 2469 = {
     clergymen = {
-        culture = british
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = british
-        religion = protestant
-        size = 245
-    }
-
-    soldiers = {
-        culture = british
-        religion = protestant
-        size = 49
-    }
-
-    farmers = {
-        culture = british
-        religion = protestant
-        size = 1416
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 98
-    }
-
-    clergymen = {
-        culture = irish
-        religion = catholic
-        size = 9
-    }
-
-
-    farmers = {
-        culture = irish
-        religion = catholic
-        size = 1078
-    }
-
-    clergymen = {
         culture = aborigine
         religion = animist
         size = 9
@@ -182,54 +121,6 @@
 }
 #Port Macquarie (12000/3000 POPS)
 2470 = {
-    clergymen = {
-        culture = british
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = british
-        religion = protestant
-        size = 49
-    }
-
-    soldiers = {
-        culture = british
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = british
-        religion = protestant
-        size = 686
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 19
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 156
-    }
-
     aristocrats = {
         culture = aborigine
         religion = animist
@@ -275,76 +166,9 @@
         religion = animist
         size = 882
     }
-
-    clergymen = {
-        culture = british
-        religion = protestant
-        size = 122
-    }
-
-    soldiers = {
-        culture = british
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = british
-        religion = protestant
-        size = 1592
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 98
-    }
-
 }
 #Wagga Wagga (12000/3000 POPS)
 2473 = {
-    clergymen = {
-        culture = british
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = british
-        religion = protestant
-        size = 49
-    }
-
-    soldiers = {
-        culture = british
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 882
-    }
-
     aristocrats = {
         culture = aborigine
         religion = animist
@@ -373,31 +197,6 @@
 #uncolonized in 1836
 #Ophir - Bathurst (8000/2000 POPS)
 2471 = {
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 2
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 19
-    }
-
     aristocrats = {
         culture = aborigine
         religion = animist
@@ -478,49 +277,6 @@
 #uncolonized in 1836
 #Melbourne (12000/3000 POPS)
 2476 = {
-
-    aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
-    bureaucrats = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    officers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
     aristocrats = {
         culture = aborigine
         religion = animist
@@ -751,81 +507,10 @@
         religion = animist
         size = 186
     }
-
-    aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
-    bureaucrats = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    officers = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 49
-    }
-
-    soldiers = {
-        culture = british
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = british
-        religion = protestant
-        size = 857
-    }
 }
 #uncolonized in 1836
 #Gladstone (8000/2000 POPS)
 2484 = {
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 2
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 19
-    }
     aristocrats = {
         culture = aborigine
         religion = animist
@@ -1045,54 +730,6 @@
 #Adelaide (12000/3000 POPS)
 2491 = {
     aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 1
-    }
-
-    bureaucrats = {
-        culture = australian
-        religion = protestant
-        size = 1
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 2
-    }
-
-    officers = {
-        culture = australian
-        religion = protestant
-        size = 2
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 19
-    }
-
-    farmers = {
-        culture = british
-        religion = protestant
-        size = 19
-    }
-
-    aristocrats = {
         culture = aborigine
         religion = animist
         size = 49
@@ -1119,31 +756,6 @@
 }
 #Port Lincoln (4000/1000 POPS)
 2492 = {
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 2
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 19
-    }
-
-
     aristocrats = {
         culture = aborigine
         religion = animist
@@ -1196,30 +808,6 @@
 }
 #Port Augusta (4000/1000 POPS)
 2494 = {
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 2
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 19
-    }
-
     aristocrats = {
         culture = aborigine
         religion = animist
@@ -1301,66 +889,6 @@
 #ruled by Britain 1836
 #Perth (23000/5750 POPS)
 2497 = {
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = british
-        religion = protestant
-        size = 9
-    }
-
-    farmers = {
-        culture = british
-        religion = protestant
-        size = 617
-    }
-
-    aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    bureaucrats = {
-        culture = australian
-        religion = protestant
-        size = 2
-    }
-
-    officers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
     aristocrats = {
         culture = aborigine
         religion = animist
@@ -1388,48 +916,6 @@
 }
 #Kojonup - Albany (12000/3000 POPS)
 2498 = {
-    aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 2
-    }
-
-    bureaucrats = {
-        culture = australian
-        religion = protestant
-        size = 1
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    officers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 19
-    }
-
     aristocrats = {
         culture = aborigine
         religion = animist
@@ -1696,48 +1182,6 @@
 #Palmerston - Port Essington (20000/5000 POPS)
 2505 = {
     aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 1
-    }
-
-    bureaucrats = {
-        culture = australian
-        religion = protestant
-        size = 1
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 2
-    }
-
-    officers = {
-        culture = australian
-        religion = protestant
-        size = 2
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 4
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 19
-    }
-
-    aristocrats = {
         culture = aborigine
         religion = animist
         size = 73
@@ -1845,16 +1289,9 @@
 #Ruled by Britain 1836
 #Norfolk Island (1000/250 POPS)
 2508 = {
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 9
-    }
-
     farmers = {
-        culture = british
-        religion = protestant
-        size = 230
+        culture = melanesian
+        religion = animist
+        size = 1
     }
-
 }
