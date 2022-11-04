@@ -29,30 +29,6 @@ MAJ = {
 navy = {
     name = "Taba"
     location = 1751
-    ship = {
-        name= "Toushka"
-        type = manowar
-    }
-
-    ship = {
-        name= "Sharm El-Sheikh"
-        type = manowar
-    }
-
-    ship = {
-        name= "Damyat"
-        type = manowar
-    }
-
-    ship = {
-        name= "Rasheed"
-        type = manowar
-    }
-
-    ship = {
-        name= "El Suez"
-        type = manowar
-    }
 
     ship = {
         name= "El Aboukir"
@@ -76,31 +52,6 @@ navy = {
 
     ship = {
         name= "Aswan"
-        type = frigate
-    }
-
-    ship = {
-        name= "Port Said"
-        type = frigate
-    }
-
-    ship = {
-        name= "Marsa Matruh"
-        type = frigate
-    }
-
-    ship = {
-        name= "Bur Tawfiq"
-        type = frigate
-    }
-
-    ship = {
-        name= "Al Ghardaqah"
-        type = frigate
-    }
-
-    ship = {
-        name= "Bur Safajah"
         type = frigate
     }
 
