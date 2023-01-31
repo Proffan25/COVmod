@@ -45,13 +45,13 @@
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 2940
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1078
     }
@@ -63,7 +63,7 @@
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 4214
     }
@@ -432,25 +432,25 @@
 #Hobart (36000/9000 POPS)
 2482 = {
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 24
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 98
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 98
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 8501
     }

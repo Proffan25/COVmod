@@ -1445,31 +1445,31 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 186
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 46
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 93
     }
 
     officers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 46
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 93
     }
@@ -1594,7 +1594,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 69
     }
@@ -2611,7 +2611,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 46
     }
@@ -2928,31 +2928,31 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 511
     }
 
     officers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 372
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 46
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 465
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1860
     }
@@ -3517,7 +3517,7 @@
 #Gauhati (1060000/265000 POPS)
 1258 = {
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 23
     }
@@ -3858,7 +3858,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 23
     }
@@ -4095,7 +4095,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 9
     }
@@ -4973,7 +4973,7 @@
     }
 
 }
-#under British rule 1836 (3620000)
+#under english rule 1836 (3620000)
 #Jubbulpore (3024000/756000 POPS)
 1275 = {
     aristocrats = {
@@ -5055,7 +5055,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 23
     }
@@ -6267,7 +6267,7 @@
 
 }
 #Gujarat (7812000)
-#Under British Rule 1836 (2064000)
+#Under english Rule 1836 (2064000)
 #Ahmadabad (992000/248000 POPS)
 1291 = {
     aristocrats = {
@@ -6367,7 +6367,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 9
     }
@@ -6960,31 +6960,31 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1046
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 232
     }
 
     officers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 465
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 116
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 2790
     }
@@ -7507,7 +7507,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 69
     }
@@ -7848,25 +7848,25 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1278
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 348
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 232
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 2790
     }
@@ -8483,7 +8483,7 @@
     }
 }
 #Malabar Region  (2656000)
-#Under British Rule 1836 (1372000)
+#Under english Rule 1836 (1372000)
 #Calicut (1372000/343000 POPS)
 1317 = {
     aristocrats = {

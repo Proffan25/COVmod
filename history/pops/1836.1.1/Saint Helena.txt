@@ -3,31 +3,31 @@
 #Saint Helena (4000/1000 POPS)
 2129 = {
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 4
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 23
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 18
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 46
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 227
     }
@@ -47,13 +47,13 @@
 #Ascension (140/35 POPS)
 2130 = {
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 9
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 55
     }
@@ -62,13 +62,13 @@
 2132 = {
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 9
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 55
     }

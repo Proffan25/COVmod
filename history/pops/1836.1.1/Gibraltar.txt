@@ -3,25 +3,25 @@
 #Gibraltar (16394/4100 POPS)
 517 = {
     officers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 4
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 4
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 599
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 122
     }

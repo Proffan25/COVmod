@@ -3,37 +3,37 @@
 #Trinidad (44000/11000 POPS)
 2237 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 19
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 11
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 19
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 390
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 19
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 319
     }
@@ -65,25 +65,25 @@
 #Tobago (15000/3750 POPS)
 2238 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 7
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 3
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 19
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 46
     }

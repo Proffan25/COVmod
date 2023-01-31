@@ -552,34 +552,34 @@
         size = 1323
     }
 }
-#Pitcairn Islands (160/40 POPS) #british trade post - proclaimed colony 1838
+#Pitcairn Islands (160/40 POPS) #english trade post - proclaimed colony 1838
 2552 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 9
     }

@@ -3,43 +3,43 @@
 #Jamaica (372000/93000 POPS)
 2217 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1474
     }
 
     aristocrats = { #So the state has 2% aristocrats
-        culture = british
+        culture = english
         religion = protestant
         size = 1474
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 66
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 58
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 975
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 39
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1708
     }
@@ -68,7 +68,7 @@
         size = 65812
     }
 }
-#Cayman Islands : (1200/300 POPS) #still a British Colony
+#Cayman Islands : (1200/300 POPS) #still a english Colony
 2218 = {
     clergymen = {
         culture = afro_caribbean

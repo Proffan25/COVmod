@@ -1,6 +1,6 @@
 capital = 826
 primary_culture = greek
-culture = british
+culture = english
 culture = north_italian
 religion = orthodox
 government = hms_government
