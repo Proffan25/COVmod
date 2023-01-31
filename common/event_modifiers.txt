@@ -1803,6 +1803,12 @@ the_french_foreign_legion = {
     icon = 17
 }
 
+the_second_white_terror = {
+    leadership_modifier = -0.2
+    administrative_efficiency_modifier = -0.2
+    icon = 18
+}
+
 the_eiffel_tower = {
     prestige = 0.05
     icon = 15

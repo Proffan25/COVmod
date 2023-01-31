@@ -1403,6 +1403,7 @@ political_decisions = {
 
         effect = {
             425 = { any_pop = { literacy = 0.05 } }
+            add_country_modifier = {name = the_second_white_terror = 3650 }
             any_pop = {
                 limit = {
                     is_primary_culture = yes
