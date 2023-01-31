@@ -27,42 +27,42 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 11
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 3
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 11
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 117
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 19
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 421
     }
 }
-#Turks & Caicos Islands (3000/750 POPS) #still a British colony
+#Turks & Caicos Islands (3000/750 POPS) #still a english colony
 2220 = {
     clergymen = {
         culture = afro_caribbean

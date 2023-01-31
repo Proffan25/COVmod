@@ -369,7 +369,7 @@
         size = 93
     }
 }
-#uncolonized/British have trade post in 1836
+#uncolonized/english have trade post in 1836
 #Banjul (108000/27000 POPS) #now part of Gambia
 1785 = {
     aristocrats = {

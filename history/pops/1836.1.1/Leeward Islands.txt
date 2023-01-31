@@ -3,37 +3,37 @@
 #Antigua (25000/6250 POPS) #now independent
 2224 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 39
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 23
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 7
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 156
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 7
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 156
     }
@@ -62,28 +62,28 @@
         size = 4266
     }
 }
-#Montserrat (5300/1325 POPS) #still British Colony
+#Montserrat (5300/1325 POPS) #still english Colony
 2225 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 7
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 3
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 23
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 23
     }
@@ -112,28 +112,28 @@
         size = 1076
     }
 }
-#Tortola (4800/1200 POPS) #still British Colony
+#Tortola (4800/1200 POPS) #still english Colony
 2226 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 7
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 7
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 31
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 31
     }
@@ -165,31 +165,31 @@
 #Saint Kitts (26500/6625 POPS) #now independent
 2227 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 58
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 11
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 175
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 39
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 202
     }

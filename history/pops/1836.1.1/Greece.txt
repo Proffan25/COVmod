@@ -898,16 +898,16 @@
     }
     ########
 
-    ######British #250 soldiers + 157 civilians
+    ######english #250 soldiers + 157 civilians
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 222
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 139
     }
@@ -979,15 +979,15 @@
     }
     ########
 
-    ######British #250 soldiers + 100 civilians
+    ######english #250 soldiers + 100 civilians
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 222
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 133
     }
