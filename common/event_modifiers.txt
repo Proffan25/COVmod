@@ -1731,6 +1731,15 @@ economic_boom = {
 }
 
 #### ENG - ENGLAND #####
+
+corn_laws = {
+    min_tariff = 0.2
+	minimum_wage = 0.20
+    global_pop_militancy_modifier = 0.01
+    global_pop_consciousness_modifier = -0.01
+    icon = 1
+}
+
 corn_laws_repealed = {
     max_tariff = -0.05
     global_pop_militancy_modifier = -0.02

@@ -15,6 +15,7 @@ political_decisions = {
         }
 
         effect = {
+            remove_country_modifier = corn_laws
             add_country_modifier = {
                 name = corn_laws_repealed
                 duration = 3650

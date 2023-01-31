@@ -521,7 +521,7 @@ political_decisions = {
         }
 
         effect = {
-            add_country_modifier = {name = smithian_school duration = 3650 }
+            add_country_modifier = {name = corn_laws duration = -1 }
             any_pop = {
                 limit = {
                     OR = {
