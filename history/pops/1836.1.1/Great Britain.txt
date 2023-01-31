@@ -74,31 +74,31 @@
 1724 = {
 
     aristocrats = {
-        culture = english
+        culture = scottish
         religion = protestant
         size = 35
     }
 
     clergymen = {
-        culture = english
+        culture = scottish
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = english
+        culture = scottish
         religion = protestant
         size = 333
     }
 
     artisans = {
-        culture = english
+        culture = scottish
         religion = protestant
         size = 890
     }
 
     farmers = {
-        culture = english
+        culture = scottish
         religion = protestant
         size = 5215
     }
@@ -488,43 +488,43 @@
 #Holyhead (240000/60000 POPS)
 276 = {
     aristocrats = {
-        culture = english
+        culture = welsh
         religion = protestant
         size = 222
     }
 
     clergymen = {
-        culture = english
+        culture = welsh
         religion = protestant
         size = 222
     }
 
     soldiers = {
-        culture = english
+        culture = welsh
         religion = protestant
         size = 3667
     }
 
     clerks = {
-        culture = english
+        culture = welsh
         religion = protestant
         size = 116
     }
 
     craftsmen = {
-        culture = english
+        culture = welsh
         religion = protestant
         size = 2670
     }
 
     artisans = {
-        culture = english
+        culture = welsh
         religion = protestant
         size = 2875
     }
 
     farmers = {
-        culture = english
+        culture = welsh
         religion = protestant
         size = 43725
     }
