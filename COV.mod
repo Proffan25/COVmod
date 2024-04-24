@@ -1,4 +1,4 @@
 name = "Congress of Vienna"
-path = "mod/COV"
+path = "mod/COVmod"
 user_dir = "COV"
 replace_path = "history/provinces"
